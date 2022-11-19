@@ -1,0 +1,4 @@
+#update with your league_id.
+#this can be obtianed from the url
+#example: https://sleeper.com/leagues/XXXXXXX/matchup
+league_id: XXXXXXX
