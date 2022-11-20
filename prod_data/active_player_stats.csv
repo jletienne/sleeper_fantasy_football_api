@@ -1,1 +1,801 @@
-week,team,player_id,player_points,fantasy_position,active_flag,user_id,team_avatar,team_name,user_name
+week,team,player_id,player_points,fantasy_position,active_flag,player_depth_chart_position,player_name,player_position,player_team,user_id,team_avatar,team_name,user_name
+8.0,1.0,1234,13.78,QB,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,1.0,7607,8.1,RB,1.0,RB,Michael Carter,RB,NYJ,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,1.0,8129,12.6,RB,1.0,RB,Dameon Pierce,RB,HOU,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,1.0,8144,7.7,WR,1.0,LWR,Chris Olave,WR,NO,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,1.0,4039,18.9,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,1.0,7553,19.0,TE,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,1.0,5248,6.5,FLEX,1.0,RB,Gus Edwards,RB,BAL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,1.0,1166,22.48,SUPER_FLEX,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,1166,16.4,QB,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,5987,0.6,RB,1.0,RB,Alexander Mattison,RB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,8129,13.9,RB,1.0,RB,Dameon Pierce,RB,HOU,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,8144,10.1,WR,1.0,LWR,Chris Olave,WR,NO,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,4039,21.8,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,1466,20.6,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,7553,4.7,FLEX,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+9.0,1.0,6886,2.7,SUPER_FLEX,1.0,LWR,Chase Claypool,WR,CHI,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,1166,13.48,QB,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,8129,10.2,RB,1.0,RB,Dameon Pierce,RB,HOU,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,5284,21.3,RB,1.0,RB,Jeff Wilson,RB,MIA,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,8144,5.5,WR,1.0,LWR,Chris Olave,WR,NO,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,4039,1.4,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,1466,20.1,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,7553,4.8,FLEX,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+10.0,1.0,1234,11.24,SUPER_FLEX,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,1234,17.8,QB,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,6828,17.6,RB,1.0,RB,AJ Dillon,RB,GB,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,8129,4.4,RB,1.0,RB,Dameon Pierce,RB,HOU,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,4039,25.3,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,7571,12.9,WR,1.0,,Rashod Bateman,WR,BAL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,1466,26.1,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,7553,3.9,FLEX,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+1.0,1.0,1166,19.08,SUPER_FLEX,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,1234,11.06,QB,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,6828,7.2,RB,1.0,RB,AJ Dillon,RB,GB,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,7607,7.5,RB,1.0,RB,Michael Carter,RB,NYJ,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,4039,25.3,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,7571,18.8,WR,1.0,,Rashod Bateman,WR,BAL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,1466,10.1,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,7553,3.9,FLEX,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+2.0,1.0,1166,7.84,SUPER_FLEX,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,1234,9.06,QB,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,8155,12.2,RB,1.0,,Breece Hall,RB,NYJ,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,5284,9.1,RB,1.0,RB,Jeff Wilson,RB,MIA,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,4039,14.4,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,8135,2.6,WR,1.0,LWR,Treylon Burks,WR,TEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,1466,17.9,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,7553,13.7,FLEX,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+3.0,1.0,1166,18.3,SUPER_FLEX,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,3257,8.12,QB,1.0,QB,Jacoby Brissett,QB,CLE,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,8155,13.2,RB,1.0,,Breece Hall,RB,NYJ,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,8129,13.7,RB,1.0,RB,Dameon Pierce,RB,HOU,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,8144,14.1,WR,1.0,LWR,Chris Olave,WR,NO,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,7571,6.2,WR,1.0,,Rashod Bateman,WR,BAL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,1466,15.8,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,7553,3.9,FLEX,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+7.0,1.0,2711,14.44,SUPER_FLEX,1.0,QB,Taylor Heinicke,QB,WAS,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,1234,13.82,QB,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,8155,19.1,RB,1.0,,Breece Hall,RB,NYJ,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,5284,-0.5,RB,1.0,RB,Jeff Wilson,RB,MIA,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,4039,13.2,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,8121,4.1,WR,1.0,RWR,Romeo Doubs,WR,GB,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,1466,19.2,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,6828,7.2,FLEX,1.0,RB,AJ Dillon,RB,GB,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+6.0,1.0,1166,16.5,SUPER_FLEX,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,1234,26.98,QB,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,8155,14.8,RB,1.0,,Breece Hall,RB,NYJ,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,6828,8.9,RB,1.0,RB,AJ Dillon,RB,GB,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,4039,19.2,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,7571,3.2,WR,1.0,,Rashod Bateman,WR,BAL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,1466,24.2,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,7553,3.5,FLEX,1.0,LTE,Kyle Pitts,TE,ATL,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+4.0,1.0,1166,12.92,SUPER_FLEX,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,1234,8.16,QB,1.0,QB,Russell Wilson,QB,DEN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,8155,26.7,RB,1.0,,Breece Hall,RB,NYJ,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,8129,18.8,RB,1.0,RB,Dameon Pierce,RB,HOU,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,4039,22.4,WR,1.0,,Cooper Kupp,WR,LAR,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,8144,13.4,WR,1.0,LWR,Chris Olave,WR,NO,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,1466,33.5,TE,1.0,TE,Travis Kelce,TE,KC,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,5284,19.7,FLEX,1.0,RB,Jeff Wilson,RB,MIA,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+5.0,1.0,1166,22.24,SUPER_FLEX,1.0,QB,Kirk Cousins,QB,MIN,563936546516406272,https://sleepercdn.com/uploads/c8337cb01e0372c3ae31a774f76dc8be,Team Wal,wallywormser
+8.0,2.0,6770,12.48,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,2.0,3198,37.3,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,2.0,4199,17.7,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,2.0,5872,0.0,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,2.0,1426,27.9,WR,1.0,LWR,DeAndre Hopkins,WR,ARI,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,2.0,4217,12.9,TE,1.0,TE,George Kittle,TE,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,2.0,7543,23.7,FLEX,1.0,RB,Travis Etienne,RB,JAX,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,2.0,6768,29.18,SUPER_FLEX,1.0,QB,Tua Tagovailoa,QB,MIA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,6770,19.14,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,3198,23.5,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,4199,5.5,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,1426,11.6,WR,1.0,LWR,DeAndre Hopkins,WR,ARI,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,4037,7.2,WR,1.0,SWR,Chris Godwin,WR,TB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,3271,0.0,TE,1.0,TE,Tyler Higbee,TE,LAR,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,7543,25.6,FLEX,1.0,RB,Travis Etienne,RB,JAX,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+9.0,2.0,6768,23.08,SUPER_FLEX,1.0,QB,Tua Tagovailoa,QB,MIA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,1373,18.2,QB,1.0,QB,Geno Smith,QB,SEA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,3198,7.7,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,1535,5.9,RB,1.0,RB,Cordarrelle Patterson,RB,ATL,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,1426,14.8,WR,1.0,LWR,DeAndre Hopkins,WR,ARI,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,5872,6.1,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,4217,3.1,TE,1.0,TE,George Kittle,TE,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,7543,8.8,FLEX,1.0,RB,Travis Etienne,RB,JAX,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+10.0,2.0,6768,23.4,SUPER_FLEX,1.0,QB,Tua Tagovailoa,QB,MIA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,6770,16.22,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,3198,7.2,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,4199,9.1,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,5872,10.6,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,7090,1.3,WR,1.0,SWR,Darnell Mooney,WR,CHI,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,4089,14.4,TE,1.0,TE,Gerald Everett,TE,LAC,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,7561,4.1,FLEX,1.0,RB,Elijah Mitchell,RB,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+1.0,2.0,6768,13.8,SUPER_FLEX,1.0,QB,Tua Tagovailoa,QB,MIA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,6770,15.56,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,3198,8.5,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,4199,30.5,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,5872,11.2,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,4082,19.4,WR,1.0,SWR,Curtis Samuel,WR,WAS,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,3271,14.1,TE,1.0,TE,Tyler Higbee,TE,LAR,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,5916,10.7,FLEX,1.0,RB,Darrell Henderson,RB,LAR,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+2.0,2.0,6768,38.86,SUPER_FLEX,1.0,QB,Tua Tagovailoa,QB,MIA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,6770,23.0,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,3198,22.8,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,4199,3.2,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,5872,10.4,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,4082,9.6,WR,1.0,SWR,Curtis Samuel,WR,WAS,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,4217,6.8,TE,1.0,TE,George Kittle,TE,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,5916,1.7,FLEX,1.0,RB,Darrell Henderson,RB,LAR,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+3.0,2.0,6768,11.44,SUPER_FLEX,1.0,QB,Tua Tagovailoa,QB,MIA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,6770,39.24,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,3198,15.3,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,4199,24.1,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,5872,6.9,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,4037,8.0,WR,1.0,SWR,Chris Godwin,WR,TB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,4217,21.8,TE,1.0,TE,George Kittle,TE,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,1426,14.3,FLEX,1.0,LWR,DeAndre Hopkins,WR,ARI,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+7.0,2.0,1373,12.1,SUPER_FLEX,1.0,QB,Geno Smith,QB,SEA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,6770,32.5,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,7543,10.8,RB,1.0,RB,Travis Etienne,RB,JAX,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,4199,5.9,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,5872,12.5,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,4037,12.5,WR,1.0,SWR,Chris Godwin,WR,TB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,3271,1.7,TE,1.0,TE,Tyler Higbee,TE,LAR,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,6951,8.0,FLEX,1.0,RB,Eno Benjamin,RB,HOU,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+6.0,2.0,1373,11.68,SUPER_FLEX,1.0,QB,Geno Smith,QB,SEA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,6770,20.08,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,3198,22.2,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,4199,13.0,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,5872,20.7,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,4082,5.8,WR,1.0,SWR,Curtis Samuel,WR,WAS,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,4217,4.4,TE,1.0,TE,George Kittle,TE,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,1689,11.2,FLEX,1.0,LWR,Adam Thielen,WR,MIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+4.0,2.0,6768,2.4,SUPER_FLEX,1.0,QB,Tua Tagovailoa,QB,MIA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,6770,17.28,QB,1.0,QB,Joe Burrow,QB,CIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,3198,26.2,RB,1.0,RB,Derrick Henry,RB,TEN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,4199,9.0,RB,1.0,RB,Aaron Jones,RB,GB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,5872,10.2,WR,1.0,RWR,Deebo Samuel,WR,SF,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,4037,9.3,WR,1.0,SWR,Chris Godwin,WR,TB,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,3271,11.6,TE,1.0,TE,Tyler Higbee,TE,LAR,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,1689,4.7,FLEX,1.0,LWR,Adam Thielen,WR,MIN,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+5.0,2.0,1373,24.02,SUPER_FLEX,1.0,QB,Geno Smith,QB,SEA,726947889745571840,https://sleepercdn.com/uploads/396d0e40286279e0ed5ede2af1caa205.jpg,Bulls in 4,jfreed3
+8.0,3.0,8160,5.34,QB,1.0,QB,Kenny Pickett,QB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,3.0,7528,8.96,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,3.0,5890,6.2,RB,1.0,RB,Damien Harris,RB,NE,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,3.0,2449,18.8,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,3.0,6783,15.3,WR,1.0,SWR,Jerry Jeudy,WR,DEN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,3.0,4973,8.2,TE,1.0,TE,Hayden Hurst,TE,CIN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,3.0,8112,5.1,FLEX,1.0,LWR,Drake London,WR,ATL,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,3.0,96,15.22,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,4046,34.14,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,4663,19.6,RB,1.0,RB,Austin Ekeler,RB,LAC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,6945,8.42,RB,1.0,RB,Antonio Gibson,RB,WAS,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,2449,11.8,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,5846,12.2,WR,1.0,LWR,DK Metcalf,WR,SEA,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,4973,8.5,TE,1.0,TE,Hayden Hurst,TE,CIN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,5906,5.5,FLEX,1.0,TE,Dawson Knox,TE,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+9.0,3.0,96,13.64,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,4046,30.14,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,4663,9.8,RB,1.0,RB,Austin Ekeler,RB,LAC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,7528,8.9,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,2449,18.8,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,5846,10.1,WR,1.0,LWR,DK Metcalf,WR,SEA,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,5906,9.7,TE,1.0,TE,Dawson Knox,TE,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,6783,0.0,FLEX,1.0,SWR,Jerry Jeudy,WR,DEN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+10.0,3.0,96,18.36,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,4046,33.9,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,7528,9.6,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,6945,16.5,RB,1.0,RB,Antonio Gibson,RB,WAS,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,2449,22.2,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,5859,20.5,WR,1.0,LWR,A.J. Brown,WR,PHI,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,5906,1.5,TE,1.0,TE,Dawson Knox,TE,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,6783,18.2,FLEX,1.0,SWR,Jerry Jeudy,WR,DEN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+1.0,3.0,96,2.7,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,4046,17.3,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,7528,11.4,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,6945,11.1,RB,1.0,RB,Antonio Gibson,RB,WAS,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,2449,38.8,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,5859,9.4,WR,1.0,LWR,A.J. Brown,WR,PHI,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,5906,8.1,TE,1.0,TE,Dawson Knox,TE,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,6783,1.7,FLEX,1.0,SWR,Jerry Jeudy,WR,DEN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+2.0,3.0,96,15.36,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,4046,17.08,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,7528,10.6,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,6945,10.5,RB,1.0,RB,Antonio Gibson,RB,WAS,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,2449,10.9,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,5859,17.0,WR,1.0,LWR,A.J. Brown,WR,PHI,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,5906,6.5,TE,1.0,TE,Dawson Knox,TE,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,8112,12.9,FLEX,1.0,LWR,Drake London,WR,ATL,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+3.0,3.0,96,16.1,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,4046,25.92,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,4663,29.7,RB,1.0,RB,Austin Ekeler,RB,LAC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,7528,9.5,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,5955,7.0,WR,1.0,,Hunter Renfrow,WR,LV,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,5846,1.7,WR,1.0,LWR,DK Metcalf,WR,SEA,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,4973,10.8,TE,1.0,TE,Hayden Hurst,TE,CIN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,8112,1.4,FLEX,1.0,LWR,Drake London,WR,ATL,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+7.0,3.0,96,14.76,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,4046,19.62,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,4663,19.3,RB,1.0,RB,Austin Ekeler,RB,LAC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,7528,11.9,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,2449,25.8,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,5846,4.4,WR,1.0,LWR,DK Metcalf,WR,SEA,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,4973,5.1,TE,1.0,TE,Hayden Hurst,TE,CIN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,8112,5.5,FLEX,1.0,LWR,Drake London,WR,ATL,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+6.0,3.0,96,9.84,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,4046,23.36,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,7528,7.4,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,6945,7.8,RB,1.0,RB,Antonio Gibson,RB,WAS,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,2449,8.2,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,5859,12.0,WR,1.0,LWR,A.J. Brown,WR,PHI,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,5906,7.0,TE,1.0,TE,Dawson Knox,TE,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,8112,2.7,FLEX,1.0,LWR,Drake London,WR,ATL,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+4.0,3.0,96,16.14,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,4046,30.48,QB,1.0,QB,Patrick Mahomes,QB,KC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,4663,33.9,RB,1.0,RB,Austin Ekeler,RB,LAC,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,7528,5.1,RB,1.0,RB,Najee Harris,RB,PIT,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,2449,20.2,WR,1.0,RWR,Stefon Diggs,WR,BUF,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,5846,14.3,WR,1.0,LWR,DK Metcalf,WR,SEA,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,4973,17.3,TE,1.0,TE,Hayden Hurst,TE,CIN,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,5890,1.7,FLEX,1.0,RB,Damien Harris,RB,NE,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+5.0,3.0,96,15.88,SUPER_FLEX,1.0,QB,Aaron Rodgers,QB,GB,726948685165961216,https://sleepercdn.com/uploads/739ebd14de68fd2c6451f6e432c0a7d8.jpg,Emmanuel,SagarM
+8.0,4.0,5849,23.64,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,4.0,4988,24.9,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,4.0,3969,13.3,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,4.0,6794,12.8,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,4.0,3225,11.3,WR,1.0,SWR,Tyler Boyd,WR,CIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,4.0,2505,0.0,TE,1.0,,Darren Waller,TE,LV,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,4.0,6151,13.8,FLEX,1.0,RB,Miles Sanders,RB,PHI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,4.0,4335,16.68,SUPER_FLEX,1.0,QB,PJ Walker,QB,CAR,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,5849,17.0,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,6151,15.3,RB,1.0,RB,Miles Sanders,RB,PHI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,3969,8.5,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,6794,22.0,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,3225,6.9,WR,1.0,SWR,Tyler Boyd,WR,CIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,8131,9.4,TE,1.0,LTE,Isaiah Likely,TE,BAL,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,4983,3.4,FLEX,1.0,LWR,DJ Moore,WR,CAR,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+9.0,4.0,829,10.9,SUPER_FLEX,1.0,QB,Andy Dalton,QB,NO,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,1049,19.4,QB,1.0,QB,Ryan Tannehill,QB,TEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,6151,5.4,RB,1.0,RB,Miles Sanders,RB,PHI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,3969,10.3,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,6794,30.3,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,5185,6.0,WR,1.0,RWR,Allen Lazard,WR,GB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,5985,13.3,TE,1.0,TE,Foster Moreau,TE,LV,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,4988,12.6,FLEX,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+10.0,4.0,8160,19.06,SUPER_FLEX,1.0,QB,Kenny Pickett,QB,PIT,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,5849,20.62,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,4988,14.8,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,3969,14.7,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,6794,34.9,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,5045,9.2,WR,1.0,LWR,Courtland Sutton,WR,DEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,2505,11.9,TE,1.0,,Darren Waller,TE,LV,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,1992,1.7,FLEX,1.0,LWR,Allen Robinson,WR,LAR,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+1.0,4.0,2306,21.66,SUPER_FLEX,1.0,QB,Jameis Winston,QB,NO,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,5849,25.88,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,4988,30.8,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,3969,8.4,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,6794,7.8,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,5045,16.2,WR,1.0,LWR,Courtland Sutton,WR,DEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,2505,17.0,TE,1.0,,Darren Waller,TE,LV,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,1992,13.3,FLEX,1.0,LWR,Allen Robinson,WR,LAR,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+2.0,4.0,2306,6.64,SUPER_FLEX,1.0,QB,Jameis Winston,QB,NO,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,5849,12.36,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,4988,17.3,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,3969,9.5,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,6794,2.9,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,5045,13.7,WR,1.0,LWR,Courtland Sutton,WR,DEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,2505,5.2,TE,1.0,,Darren Waller,TE,LV,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,1992,3.3,FLEX,1.0,LWR,Allen Robinson,WR,LAR,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+3.0,4.0,2306,12.62,SUPER_FLEX,1.0,QB,Jameis Winston,QB,NO,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,5849,16.16,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,4988,17.7,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,3969,3.6,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,5185,8.5,WR,1.0,RWR,Allen Lazard,WR,GB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,5045,3.8,WR,1.0,LWR,Courtland Sutton,WR,DEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,8111,10.4,TE,1.0,TE,Cade Otton,TE,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,3225,25.5,FLEX,1.0,SWR,Tyler Boyd,WR,CIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+7.0,4.0,1049,2.88,SUPER_FLEX,1.0,QB,Ryan Tannehill,QB,TEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,5849,12.88,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,4988,7.5,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,3969,19.1,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,6794,13.7,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,5045,2.4,WR,1.0,LWR,Courtland Sutton,WR,DEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,6126,9.7,TE,1.0,,Irv Smith,TE,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,6151,13.7,FLEX,1.0,RB,Miles Sanders,RB,PHI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+6.0,4.0,8160,8.28,SUPER_FLEX,1.0,QB,Kenny Pickett,QB,PIT,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,5849,21.88,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,4988,19.7,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,3969,14.9,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,6794,26.0,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,5045,13.7,WR,1.0,LWR,Courtland Sutton,WR,DEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,2505,5.4,TE,1.0,,Darren Waller,TE,LV,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,6151,28.6,FLEX,1.0,RB,Miles Sanders,RB,PHI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+4.0,4.0,2306,0.0,SUPER_FLEX,1.0,QB,Jameis Winston,QB,NO,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,5849,16.2,QB,1.0,QB,Kyler Murray,QB,ARI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,4988,25.4,RB,1.0,RB,Nick Chubb,RB,CLE,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,3969,30.9,RB,1.0,RB,Leonard Fournette,RB,TB,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,6794,24.32,WR,1.0,RWR,Justin Jefferson,WR,MIN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,5045,9.9,WR,1.0,LWR,Courtland Sutton,WR,DEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,2505,0.0,TE,1.0,,Darren Waller,TE,LV,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,6151,7.4,FLEX,1.0,RB,Miles Sanders,RB,PHI,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+5.0,4.0,1049,11.54,SUPER_FLEX,1.0,QB,Ryan Tannehill,QB,TEN,725860459504295936,https://sleepercdn.com/uploads/efb3b7adb47f53e916db9d5d520e5542.jpg,Tyus Guyus’s,jhanna0
+8.0,5.0,3163,18.14,QB,1.0,QB,Jared Goff,QB,DET,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,5.0,4018,9.4,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,5.0,6130,8.8,RB,1.0,RB,Devin Singletary,RB,BUF,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,5.0,2133,0.7,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,5.0,5927,13.6,WR,1.0,LWR,Terry McLaurin,WR,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,5.0,7600,9.7,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,5.0,1352,2.2,FLEX,1.0,RWR,Robert Woods,WR,TEN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,5.0,8161,1.4,SUPER_FLEX,1.0,QB,Malik Willis,QB,TEN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,6797,12.1,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,4018,55.1,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,6820,2.4,RB,1.0,RB,Clyde Edwards-Helaire,RB,KC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,2133,31.6,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,5927,8.1,WR,1.0,LWR,Terry McLaurin,WR,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,4602,5.9,TE,1.0,TE,Robert Tonyan,TE,GB,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,6130,6.8,FLEX,1.0,RB,Devin Singletary,RB,BUF,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+9.0,5.0,3163,11.38,SUPER_FLEX,1.0,QB,Jared Goff,QB,DET,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,6797,11.04,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,6130,14.2,RB,1.0,RB,Devin Singletary,RB,BUF,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,6820,0.0,RB,1.0,RB,Clyde Edwards-Helaire,RB,KC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,2133,23.1,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,5927,16.8,WR,1.0,LWR,Terry McLaurin,WR,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,7600,7.6,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,3164,0.0,FLEX,1.0,RB,Ezekiel Elliott,RB,DAL,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+10.0,5.0,3163,13.84,SUPER_FLEX,1.0,QB,Jared Goff,QB,DET,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,6797,23.26,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,4018,18.0,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,3164,5.4,RB,1.0,RB,Ezekiel Elliott,RB,DAL,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,2133,25.1,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,5927,12.8,WR,1.0,LWR,Terry McLaurin,WR,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,7600,12.5,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,5848,12.3,FLEX,1.0,,Marquise Brown,WR,ARI,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+1.0,5.0,24,11.28,SUPER_FLEX,1.0,QB,Matt Ryan,QB,IND,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,6797,23.46,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,4018,9.8,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,3164,5.4,RB,1.0,RB,Ezekiel Elliott,RB,DAL,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,2133,8.2,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,5927,10.2,WR,1.0,LWR,Terry McLaurin,WR,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,7600,12.2,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,5848,9.8,FLEX,1.0,,Marquise Brown,WR,ARI,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+2.0,5.0,24,0.8,SUPER_FLEX,1.0,QB,Matt Ryan,QB,IND,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,24,13.28,QB,1.0,QB,Matt Ryan,QB,IND,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,4018,5.3,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,6820,12.4,RB,1.0,RB,Clyde Edwards-Helaire,RB,KC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,2133,11.7,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,4068,8.0,WR,1.0,LWR,Mike Williams,WR,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,7600,6.1,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,5848,21.0,FLEX,1.0,,Marquise Brown,WR,ARI,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+3.0,5.0,3161,6.64,SUPER_FLEX,1.0,,Carson Wentz,QB,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,6797,16.62,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,4018,16.6,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,6820,9.2,RB,1.0,RB,Clyde Edwards-Helaire,RB,KC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,2133,13.5,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,4068,18.1,WR,1.0,LWR,Mike Williams,WR,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,7600,15.5,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,3164,17.7,FLEX,1.0,RB,Ezekiel Elliott,RB,DAL,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+7.0,5.0,24,9.92,SUPER_FLEX,1.0,QB,Matt Ryan,QB,IND,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,6797,8.42,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,4018,14.8,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,6820,3.3,RB,1.0,RB,Clyde Edwards-Helaire,RB,KC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,5848,8.3,WR,1.0,,Marquise Brown,WR,ARI,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,4068,2.7,WR,1.0,LWR,Mike Williams,WR,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,2214,3.4,TE,1.0,TE,Cameron Brate,TE,TB,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,3164,15.1,FLEX,1.0,RB,Ezekiel Elliott,RB,DAL,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+6.0,5.0,3161,4.16,SUPER_FLEX,1.0,,Carson Wentz,QB,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,6797,21.1,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,4018,15.4,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,6820,21.9,RB,1.0,RB,Clyde Edwards-Helaire,RB,KC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,2133,15.0,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,4068,15.5,WR,1.0,LWR,Mike Williams,WR,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,7600,15.5,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,5848,17.8,FLEX,1.0,,Marquise Brown,WR,ARI,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+4.0,5.0,3161,7.3,SUPER_FLEX,1.0,,Carson Wentz,QB,WAS,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,6797,14.42,QB,1.0,QB,Justin Herbert,QB,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,4018,10.3,RB,1.0,RB,Joe Mixon,RB,CIN,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,6820,5.0,RB,1.0,RB,Clyde Edwards-Helaire,RB,KC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,2133,24.9,WR,1.0,LWR,Davante Adams,WR,LV,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,4068,18.4,WR,1.0,LWR,Mike Williams,WR,LAC,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,7600,3.2,TE,1.0,TE,Pat Freiermuth,TE,PIT,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,5848,17.8,FLEX,1.0,,Marquise Brown,WR,ARI,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+5.0,5.0,3163,4.86,SUPER_FLEX,1.0,QB,Jared Goff,QB,DET,726953467654098944,https://sleepercdn.com/uploads/fd760797c35add4a535359dc2b4608a4.jpg,Ceolas DMs,tphil3
+8.0,6.0,6904,28.4,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,6.0,5850,6.4,RB,1.0,RB,Josh Jacobs,RB,LV,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,6.0,2749,7.72,RB,1.0,RB,Raheem Mostert,RB,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,6.0,3321,25.5,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,6.0,5859,36.6,WR,1.0,LWR,A.J. Brown,WR,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,6.0,1339,13.4,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,6.0,6801,12.4,FLEX,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,6.0,3294,25.4,SUPER_FLEX,1.0,QB,Dak Prescott,QB,DAL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,6904,18.02,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,5850,10.2,RB,1.0,RB,Josh Jacobs,RB,LV,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,7611,14.5,RB,1.0,RB,Rhamondre Stevenson,RB,NE,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,3321,23.8,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,5859,13.9,WR,1.0,LWR,A.J. Brown,WR,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,1339,15.0,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,6801,9.5,FLEX,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+9.0,6.0,2307,7.56,SUPER_FLEX,1.0,QB,Marcus Mariota,QB,ATL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,6904,21.8,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,5850,19.6,RB,1.0,RB,Josh Jacobs,RB,LV,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,2749,19.1,RB,1.0,RB,Raheem Mostert,RB,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,3321,12.9,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,5859,1.2,WR,1.0,LWR,A.J. Brown,WR,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,1339,2.2,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,2374,11.7,FLEX,1.0,RWR,Tyler Lockett,WR,SEA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+10.0,6.0,3294,19.2,SUPER_FLEX,1.0,QB,Dak Prescott,QB,DAL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,6904,24.72,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,4663,9.2,RB,1.0,RB,Austin Ekeler,RB,LAC,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,7543,6.5,RB,1.0,RB,Travis Etienne,RB,JAX,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,3321,13.0,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,6801,3.7,WR,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,1339,11.4,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,2197,11.7,FLEX,1.0,RWR,Brandin Cooks,WR,HOU,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+1.0,6.0,3294,4.46,SUPER_FLEX,1.0,QB,Dak Prescott,QB,DAL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,6904,32.02,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,4663,13.9,RB,1.0,RB,Austin Ekeler,RB,LAC,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,5850,8.6,RB,1.0,RB,Josh Jacobs,RB,LV,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,3321,36.5,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,6801,16.1,WR,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,4381,1.4,TE,1.0,TE,Taysom Hill,TE,NO,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,2197,7.4,FLEX,1.0,RWR,Brandin Cooks,WR,HOU,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+2.0,6.0,2307,12.44,SUPER_FLEX,1.0,QB,Marcus Mariota,QB,ATL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,6904,27.6,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,4663,9.3,RB,1.0,RB,Austin Ekeler,RB,LAC,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,6955,19.1,RB,1.0,RB,James Robinson,RB,NYJ,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,3321,4.3,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,6801,11.8,WR,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,1339,10.5,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,2197,3.2,FLEX,1.0,RWR,Brandin Cooks,WR,HOU,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+3.0,6.0,2307,13.56,SUPER_FLEX,1.0,QB,Marcus Mariota,QB,ATL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,3294,12.28,QB,1.0,QB,Dak Prescott,QB,DAL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,5850,35.0,RB,1.0,RB,Josh Jacobs,RB,LV,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,7611,19.8,RB,1.0,RB,Rhamondre Stevenson,RB,NE,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,3321,10.7,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,6801,11.8,WR,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,1339,6.1,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,2374,8.0,FLEX,1.0,RWR,Tyler Lockett,WR,SEA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+7.0,6.0,2307,11.06,SUPER_FLEX,1.0,QB,Marcus Mariota,QB,ATL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,6904,15.9,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,2749,6.3,RB,1.0,RB,Raheem Mostert,RB,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,7611,23.1,RB,1.0,RB,Rhamondre Stevenson,RB,NE,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,3321,23.62,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,2374,2.7,WR,1.0,RWR,Tyler Lockett,WR,SEA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,1339,14.0,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,5859,15.2,FLEX,1.0,LWR,A.J. Brown,WR,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+6.0,6.0,2307,24.16,SUPER_FLEX,1.0,QB,Marcus Mariota,QB,ATL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,6904,14.96,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,4663,30.9,RB,1.0,RB,Austin Ekeler,RB,LAC,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,6955,1.9,RB,1.0,RB,James Robinson,RB,NYJ,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,3321,20.9,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,6801,21.9,WR,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,1339,16.7,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,7525,3.2,FLEX,1.0,RWR,DeVonta Smith,WR,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+4.0,6.0,2307,2.86,SUPER_FLEX,1.0,QB,Marcus Mariota,QB,ATL,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,6904,27.66,QB,1.0,QB,Jalen Hurts,QB,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,5850,27.8,RB,1.0,RB,Josh Jacobs,RB,LV,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,6955,4.9,RB,1.0,RB,James Robinson,RB,NYJ,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,3321,9.42,WR,1.0,RWR,Tyreek Hill,WR,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,6801,0.0,WR,1.0,RWR,Tee Higgins,WR,CIN,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,1339,10.8,TE,1.0,,Zach Ertz,TE,ARI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,5859,4.7,FLEX,1.0,LWR,A.J. Brown,WR,PHI,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+5.0,6.0,2152,0.0,SUPER_FLEX,1.0,QB,Teddy Bridgewater,QB,MIA,726946047401738240,https://sleepercdn.com/uploads/34b5015cfd0d71db83b76f491c395e0f.jpg,Optomistic Eagles Fan,ejalexis4
+8.0,7.0,4881,21.82,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+8.0,7.0,4029,22.6,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+8.0,7.0,4866,13.7,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+8.0,7.0,2216,15.3,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+8.0,7.0,6803,17.1,WR,1.0,LWR,Brandon Aiyuk,WR,SF,726961482822123520,,Dynasty Champ,epestine
+8.0,7.0,4066,15.5,TE,1.0,TE,Evan Engram,TE,JAX,726961482822123520,,Dynasty Champ,epestine
+8.0,7.0,4111,31.8,FLEX,1.0,RB,D'Onta Foreman,RB,CAR,726961482822123520,,Dynasty Champ,epestine
+8.0,7.0,421,17.38,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,4881,16.52,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,4029,12.6,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,4111,3.1,RB,1.0,RB,D'Onta Foreman,RB,CAR,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,2216,6.5,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,7670,14.6,WR,1.0,RWR,Joshua Palmer,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,4066,1.8,TE,1.0,TE,Evan Engram,TE,JAX,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,4040,13.8,FLEX,1.0,SWR,JuJu Smith-Schuster,WR,KC,726961482822123520,,Dynasty Champ,epestine
+9.0,7.0,421,9.5,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,7585,14.76,QB,1.0,QB,Davis Mills,QB,HOU,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,4029,22.1,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,4866,22.5,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,2216,7.9,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,7670,5.9,WR,1.0,RWR,Joshua Palmer,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,8172,2.1,TE,1.0,TE,Greg Dulcich,TE,DEN,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,4040,4.3,FLEX,1.0,SWR,JuJu Smith-Schuster,WR,KC,726961482822123520,,Dynasty Champ,epestine
+10.0,7.0,5892,4.9,SUPER_FLEX,1.0,RB,David Montgomery,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,4881,20.22,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,4029,12.3,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,4866,29.4,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,2216,15.6,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,1479,8.6,WR,1.0,SWR,Keenan Allen,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,4993,1.1,TE,1.0,TE,Mike Gesicki,TE,MIA,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,5892,6.5,FLEX,1.0,RB,David Montgomery,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+1.0,7.0,421,6.8,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,4881,41.62,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,4029,5.6,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,4866,10.3,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,2216,7.6,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,7670,11.0,WR,1.0,RWR,Joshua Palmer,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,4602,3.1,TE,1.0,TE,Robert Tonyan,TE,GB,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,5892,14.6,FLEX,1.0,RB,David Montgomery,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+2.0,7.0,421,18.88,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,4881,39.42,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,4029,12.6,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,4866,20.6,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,7670,12.9,WR,1.0,RWR,Joshua Palmer,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,5937,12.4,WR,1.0,LWR,Diontae Johnson,WR,PIT,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,4602,9.7,TE,1.0,TE,Robert Tonyan,TE,GB,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,5892,1.1,FLEX,1.0,RB,David Montgomery,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+3.0,7.0,421,10.16,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,4881,10.7,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,5892,12.2,RB,1.0,RB,David Montgomery,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,4866,15.5,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,2216,14.1,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,1479,2.1,WR,1.0,SWR,Keenan Allen,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,4033,14.1,TE,1.0,TE,David Njoku,TE,CLE,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,6803,11.7,FLEX,1.0,LWR,Brandon Aiyuk,WR,SF,726961482822123520,,Dynasty Champ,epestine
+7.0,7.0,7585,18.08,SUPER_FLEX,1.0,QB,Davis Mills,QB,HOU,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,4881,14.1,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,4029,14.8,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,4866,17.0,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,2216,6.2,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,7670,10.2,WR,1.0,RWR,Joshua Palmer,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,4033,8.8,TE,1.0,TE,David Njoku,TE,CLE,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,5892,8.5,FLEX,1.0,RB,David Montgomery,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+6.0,7.0,421,11.82,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,4881,13.06,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,4029,9.6,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,4866,17.2,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,2216,26.3,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,5937,3.2,WR,1.0,LWR,Diontae Johnson,WR,PIT,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,4033,8.7,TE,1.0,TE,David Njoku,TE,CLE,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,7608,10.6,FLEX,1.0,,Khalil Herbert,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+4.0,7.0,421,5.76,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,4881,14.76,QB,1.0,QB,Lamar Jackson,QB,BAL,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,4029,25.1,RB,1.0,RB,Dalvin Cook,RB,MIN,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,4866,18.1,RB,1.0,RB,Saquon Barkley,RB,NYG,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,2216,10.1,WR,1.0,LWR,Mike Evans,WR,TB,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,7670,3.9,WR,1.0,RWR,Joshua Palmer,WR,LAC,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,4033,14.8,TE,1.0,TE,David Njoku,TE,CLE,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,5892,16.2,FLEX,1.0,RB,David Montgomery,RB,CHI,726961482822123520,,Dynasty Champ,epestine
+5.0,7.0,421,8.32,SUPER_FLEX,1.0,QB,Matthew Stafford,QB,LAR,726961482822123520,,Dynasty Champ,epestine
+8.0,8.0,7523,5.82,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,8.0,4034,35.26,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,8.0,8132,16.0,RB,1.0,RB,Tyler Allgeier,RB,ATL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,8.0,8126,2.5,WR,1.0,SWR,Wan'Dale Robinson,WR,NYG,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,8.0,6786,16.3,WR,1.0,SWR,CeeDee Lamb,WR,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,8.0,5001,13.4,TE,1.0,TE,Dalton Schultz,TE,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,8.0,4950,6.5,FLEX,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,8.0,1837,17.7,SUPER_FLEX,1.0,QB,Jimmy Garoppolo,QB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,7523,15.7,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,4137,8.9,RB,1.0,RB,James Conner,RB,ARI,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,5347,0.72,RB,1.0,RB,Nyheim Hines,RB,BUF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,4950,17.6,WR,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,2750,9.68,WR,1.0,SWR,DeAndre Carter,WR,LAC,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,5133,1.7,TE,1.0,TE,Tyler Conklin,TE,NYJ,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,4082,15.6,FLEX,1.0,SWR,Curtis Samuel,WR,WAS,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+9.0,8.0,7538,9.56,SUPER_FLEX,1.0,QB,Zach Wilson,QB,NYJ,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,7523,20.96,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,4137,22.1,RB,1.0,RB,James Conner,RB,ARI,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,5347,2.4,RB,1.0,RB,Nyheim Hines,RB,BUF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,4950,27.0,WR,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,6786,32.5,WR,1.0,SWR,CeeDee Lamb,WR,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,5001,17.4,TE,1.0,TE,Dalton Schultz,TE,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,4034,15.7,FLEX,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+10.0,8.0,1837,15.9,SUPER_FLEX,1.0,QB,Jimmy Garoppolo,QB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,7610,8.96,QB,1.0,,Trey Lance,QB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,4034,13.7,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,4137,13.0,RB,1.0,RB,James Conner,RB,ARI,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,7564,23.9,WR,1.0,LWR,Ja'Marr Chase,WR,CIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,6786,3.9,WR,1.0,SWR,CeeDee Lamb,WR,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,5001,13.2,TE,1.0,TE,Dalton Schultz,TE,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,5000,8.5,FLEX,1.0,RB,Chase Edmonds,RB,DEN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+1.0,8.0,7523,13.4,SUPER_FLEX,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,7610,2.5,QB,1.0,,Trey Lance,QB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,4034,14.8,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,4137,6.1,RB,1.0,RB,James Conner,RB,ARI,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,7564,8.3,WR,1.0,LWR,Ja'Marr Chase,WR,CIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,4950,22.8,WR,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,5001,0.8,TE,1.0,TE,Dalton Schultz,TE,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,3199,15.5,FLEX,1.0,,Michael Thomas,WR,NO,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+2.0,8.0,7523,18.5,SUPER_FLEX,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,7523,25.18,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,4034,12.5,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,4137,7.2,RB,1.0,RB,James Conner,RB,ARI,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,7564,8.7,WR,1.0,LWR,Ja'Marr Chase,WR,CIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,3199,7.4,WR,1.0,,Michael Thomas,WR,NO,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,6126,5.2,TE,1.0,,Irv Smith,TE,MIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,4950,16.2,FLEX,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+3.0,8.0,1837,7.44,SUPER_FLEX,1.0,QB,Jimmy Garoppolo,QB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,7523,18.7,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,4034,7.2,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,8132,11.0,RB,1.0,RB,Tyler Allgeier,RB,ATL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,7564,29.0,WR,1.0,LWR,Ja'Marr Chase,WR,CIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,6786,8.6,WR,1.0,SWR,CeeDee Lamb,WR,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,5001,9.9,TE,1.0,TE,Dalton Schultz,TE,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,4950,13.6,FLEX,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+7.0,8.0,1837,15.32,SUPER_FLEX,1.0,QB,Jimmy Garoppolo,QB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,7523,24.9,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,4034,19.3,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,7551,23.1,RB,1.0,RB,Deon Jackson,RB,IND,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,7564,28.7,WR,1.0,LWR,Ja'Marr Chase,WR,CIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,6786,10.2,WR,1.0,SWR,CeeDee Lamb,WR,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,6074,8.3,TE,1.0,,Donald Parham,TE,LAC,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,4950,7.8,FLEX,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+6.0,8.0,7538,4.5,SUPER_FLEX,1.0,QB,Zach Wilson,QB,NYJ,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,7523,1.66,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,4034,21.3,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,1535,9.8,RB,1.0,RB,Cordarrelle Patterson,RB,ATL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,7564,10.1,WR,1.0,LWR,Ja'Marr Chase,WR,CIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,6786,18.7,WR,1.0,SWR,CeeDee Lamb,WR,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,5133,8.2,TE,1.0,TE,Tyler Conklin,TE,NYJ,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,4950,7.3,FLEX,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+4.0,8.0,7538,18.28,SUPER_FLEX,1.0,QB,Zach Wilson,QB,NYJ,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,7523,10.34,QB,1.0,QB,Trevor Lawrence,QB,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,4034,19.9,RB,1.0,RB,Christian McCaffrey,RB,SF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,5347,1.3,RB,1.0,RB,Nyheim Hines,RB,BUF,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,7564,8.5,WR,1.0,LWR,Ja'Marr Chase,WR,CIN,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,6786,7.8,WR,1.0,SWR,CeeDee Lamb,WR,DAL,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,5133,0.0,TE,1.0,TE,Tyler Conklin,TE,NYJ,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,4950,1.6,FLEX,1.0,SWR,Christian Kirk,WR,JAX,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+5.0,8.0,7538,14.6,SUPER_FLEX,1.0,QB,Zach Wilson,QB,NYJ,96054376162279424,https://sleepercdn.com/uploads/2c995d1c99f8a4a571e1174042e06c3b.jpg,The Dans,Schleck22
+8.0,9.0,167,17.1,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,9.0,6813,4.6,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,9.0,8151,11.7,RB,1.0,RB,Kenneth Walker,RB,SEA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,9.0,7526,26.6,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,9.0,2309,19.6,WR,1.0,LWR,Amari Cooper,WR,CLE,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,9.0,5012,6.3,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,9.0,7547,10.4,FLEX,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,9.0,7591,26.04,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,167,15.2,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,6813,0.0,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,8151,26.4,RB,1.0,RB,Kenneth Walker,RB,SEA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,7526,17.0,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,6847,1.0,WR,1.0,RWR,Devin Duvernay,WR,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,5012,0.0,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,7547,7.5,FLEX,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+9.0,9.0,7591,42.72,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,167,16.02,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,6813,23.3,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,8151,10.2,RB,1.0,RB,Kenneth Walker,RB,SEA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,7526,8.6,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,2309,4.7,WR,1.0,LWR,Amari Cooper,WR,CLE,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,5844,11.5,TE,1.0,TE,T.J. Hockenson,TE,MIN,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,7547,17.1,FLEX,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+10.0,9.0,7591,38.38,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,167,10.38,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,6813,25.5,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,7588,13.3,RB,1.0,,Javonte Williams,RB,DEN,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,7526,15.7,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,7547,16.4,WR,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,5012,10.2,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,4985,6.7,FLEX,1.0,,Rashaad Penny,RB,SEA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+1.0,9.0,7591,13.64,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,167,8.4,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,6813,6.8,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,7588,9.0,RB,1.0,,Javonte Williams,RB,DEN,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,7526,34.6,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,7547,34.9,WR,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,5012,25.7,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,5844,5.6,FLEX,1.0,TE,T.J. Hockenson,TE,MIN,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+2.0,9.0,7591,7.8,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,167,14.74,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,6813,10.6,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,7588,7.5,RB,1.0,,Javonte Williams,RB,DEN,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,7526,13.1,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,7547,10.3,WR,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,5012,28.9,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,8146,9.0,FLEX,1.0,LWR,Garrett Wilson,WR,NYJ,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+3.0,9.0,7591,2.94,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,167,11.7,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,6813,12.0,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,8151,28.7,RB,1.0,RB,Kenneth Walker,RB,SEA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,7526,10.8,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,2309,8.9,WR,1.0,LWR,Amari Cooper,WR,CLE,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,5012,0.4,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,7547,0.9,FLEX,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+7.0,9.0,7591,19.36,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,167,12.72,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,2378,0.3,RB,1.0,,Tevin Coleman,RB,SF,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,8151,18.0,RB,1.0,RB,Kenneth Walker,RB,SEA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,7526,12.9,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,2309,12.4,WR,1.0,LWR,Amari Cooper,WR,CLE,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,5012,23.6,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,6847,2.38,FLEX,1.0,RWR,Devin Duvernay,WR,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+6.0,9.0,7591,17.4,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,167,24.4,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,6813,1.8,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,7588,3.2,RB,1.0,,Javonte Williams,RB,DEN,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,7526,4.9,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,2309,1.4,WR,1.0,LWR,Amari Cooper,WR,CLE,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,5012,3.5,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,8146,5.1,FLEX,1.0,LWR,Garrett Wilson,WR,NYJ,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+4.0,9.0,7591,9.16,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,167,19.74,QB,1.0,QB,Tom Brady,QB,TB,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,6813,0.0,RB,1.0,RB,Jonathan Taylor,RB,IND,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,4985,5.4,RB,1.0,,Rashaad Penny,RB,SEA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,7526,3.8,WR,1.0,LWR,Jaylen Waddle,WR,MIA,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,7547,3.8,WR,1.0,SWR,Amon-Ra St. Brown,WR,DET,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,5012,22.9,TE,1.0,LTE,Mark Andrews,TE,BAL,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,8146,4.2,FLEX,1.0,LWR,Garrett Wilson,WR,NYJ,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+5.0,9.0,7591,15.02,SUPER_FLEX,1.0,QB,Justin Fields,QB,CHI,726963254827483136,https://sleepercdn.com/uploads/3edef32f9a690477680738ad21c860b6.jpg,Schleck is a Thicc Coward,JM0
+8.0,10.0,4984,17.62,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+8.0,10.0,4035,38.3,RB,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+8.0,10.0,6790,11.8,RB,1.0,RB,D'Andre Swift,RB,DET,725486656899080192,,jittounas,jittounas
+8.0,10.0,5947,16.5,WR,1.0,SWR,Jakobi Meyers,WR,NE,725486656899080192,,jittounas,jittounas
+8.0,10.0,6943,4.5,WR,1.0,LWR,Gabe Davis,WR,BUF,725486656899080192,,jittounas,jittounas
+8.0,10.0,5022,12.4,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+8.0,10.0,5967,33.2,FLEX,1.0,RB,Tony Pollard,RB,DAL,725486656899080192,,jittounas,jittounas
+8.0,10.0,5870,8.04,SUPER_FLEX,1.0,QB,Daniel Jones,QB,NYG,725486656899080192,,jittounas,jittounas
+9.0,10.0,4984,22.8,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+9.0,10.0,4035,7.7,RB,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+9.0,10.0,4149,10.1,RB,1.0,RB,Jamaal Williams,RB,DET,725486656899080192,,jittounas,jittounas
+9.0,10.0,5947,3.9,WR,1.0,SWR,Jakobi Meyers,WR,NE,725486656899080192,,jittounas,jittounas
+9.0,10.0,6943,4.3,WR,1.0,LWR,Gabe Davis,WR,BUF,725486656899080192,,jittounas,jittounas
+9.0,10.0,5022,24.0,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+9.0,10.0,7551,4.6,FLEX,1.0,RB,Deon Jackson,RB,IND,725486656899080192,,jittounas,jittounas
+9.0,10.0,2028,18.36,SUPER_FLEX,1.0,QB,Derek Carr,QB,LV,725486656899080192,,jittounas,jittounas
+10.0,10.0,4984,18.6,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+10.0,10.0,4035,6.0,RB,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+10.0,10.0,4149,11.9,RB,1.0,RB,Jamaal Williams,RB,DET,725486656899080192,,jittounas,jittounas
+10.0,10.0,6819,7.8,WR,1.0,LWR,Michael Pittman,WR,IND,725486656899080192,,jittounas,jittounas
+10.0,10.0,6943,18.3,WR,1.0,LWR,Gabe Davis,WR,BUF,725486656899080192,,jittounas,jittounas
+10.0,10.0,5022,8.3,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+10.0,10.0,5967,20.3,FLEX,1.0,RB,Tony Pollard,RB,DAL,725486656899080192,,jittounas,jittounas
+10.0,10.0,5870,18.28,SUPER_FLEX,1.0,QB,Daniel Jones,QB,NYG,725486656899080192,,jittounas,jittounas
+1.0,10.0,4984,31.48,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+1.0,10.0,6790,25.0,RB,1.0,RB,D'Andre Swift,RB,DET,725486656899080192,,jittounas,jittounas
+1.0,10.0,4035,6.1,RB,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+1.0,10.0,6819,22.6,WR,1.0,LWR,Michael Pittman,WR,IND,725486656899080192,,jittounas,jittounas
+1.0,10.0,4983,6.5,WR,1.0,LWR,DJ Moore,WR,CAR,725486656899080192,,jittounas,jittounas
+1.0,10.0,5022,9.0,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+1.0,10.0,4068,2.0,FLEX,1.0,LWR,Mike Williams,WR,LAC,725486656899080192,,jittounas,jittounas
+1.0,10.0,2028,11.8,SUPER_FLEX,1.0,QB,Derek Carr,QB,LV,725486656899080192,,jittounas,jittounas
+2.0,10.0,4984,29.68,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+2.0,10.0,6790,15.7,RB,1.0,RB,D'Andre Swift,RB,DET,725486656899080192,,jittounas,jittounas
+2.0,10.0,4098,8.4,RB,1.0,RB,Kareem Hunt,RB,CLE,725486656899080192,,jittounas,jittounas
+2.0,10.0,4983,11.8,WR,1.0,LWR,DJ Moore,WR,CAR,725486656899080192,,jittounas,jittounas
+2.0,10.0,4197,4.7,WR,1.0,SWR,Isaiah McKenzie,WR,BUF,725486656899080192,,jittounas,jittounas
+2.0,10.0,5022,13.2,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+2.0,10.0,2320,5.8,FLEX,1.0,RB,Melvin Gordon,RB,DEN,725486656899080192,,jittounas,jittounas
+2.0,10.0,2028,18.98,SUPER_FLEX,1.0,QB,Derek Carr,QB,LV,725486656899080192,,jittounas,jittounas
+3.0,10.0,4984,23.7,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+3.0,10.0,6790,6.1,RB,1.0,RB,D'Andre Swift,RB,DET,725486656899080192,,jittounas,jittounas
+3.0,10.0,4035,5.3,RB,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+3.0,10.0,6819,11.2,WR,1.0,LWR,Michael Pittman,WR,IND,725486656899080192,,jittounas,jittounas
+3.0,10.0,6943,5.2,WR,1.0,LWR,Gabe Davis,WR,BUF,725486656899080192,,jittounas,jittounas
+3.0,10.0,5022,11.6,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+3.0,10.0,5967,10.5,FLEX,1.0,RB,Tony Pollard,RB,DAL,725486656899080192,,jittounas,jittounas
+3.0,10.0,2028,19.82,SUPER_FLEX,1.0,QB,Derek Carr,QB,LV,725486656899080192,,jittounas,jittounas
+7.0,10.0,2028,12.54,QB,1.0,QB,Derek Carr,QB,LV,725486656899080192,,jittounas,jittounas
+7.0,10.0,4035,14.0,RB,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+7.0,10.0,4149,4.8,RB,1.0,RB,Jamaal Williams,RB,DET,725486656899080192,,jittounas,jittounas
+7.0,10.0,6819,5.8,WR,1.0,LWR,Michael Pittman,WR,IND,725486656899080192,,jittounas,jittounas
+7.0,10.0,5947,10.4,WR,1.0,SWR,Jakobi Meyers,WR,NE,725486656899080192,,jittounas,jittounas
+7.0,10.0,4381,10.12,TE,1.0,TE,Taysom Hill,TE,NO,725486656899080192,,jittounas,jittounas
+7.0,10.0,5967,11.9,FLEX,1.0,RB,Tony Pollard,RB,DAL,725486656899080192,,jittounas,jittounas
+7.0,10.0,5870,28.78,SUPER_FLEX,1.0,QB,Daniel Jones,QB,NYG,725486656899080192,,jittounas,jittounas
+6.0,10.0,4984,25.36,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+6.0,10.0,4035,15.4,RB,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+6.0,10.0,5916,12.2,RB,1.0,RB,Darrell Henderson,RB,LAR,725486656899080192,,jittounas,jittounas
+6.0,10.0,6819,19.9,WR,1.0,LWR,Michael Pittman,WR,IND,725486656899080192,,jittounas,jittounas
+6.0,10.0,6943,14.9,WR,1.0,LWR,Gabe Davis,WR,BUF,725486656899080192,,jittounas,jittounas
+6.0,10.0,5022,4.2,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+6.0,10.0,5947,8.0,FLEX,1.0,SWR,Jakobi Meyers,WR,NE,725486656899080192,,jittounas,jittounas
+6.0,10.0,5870,12.52,SUPER_FLEX,1.0,QB,Daniel Jones,QB,NYG,725486656899080192,,jittounas,jittounas
+4.0,10.0,4984,22.52,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+4.0,10.0,4149,23.4,RB,1.0,RB,Jamaal Williams,RB,DET,725486656899080192,,jittounas,jittounas
+4.0,10.0,4098,7.8,RB,1.0,RB,Kareem Hunt,RB,CLE,725486656899080192,,jittounas,jittounas
+4.0,10.0,6819,4.6,WR,1.0,LWR,Michael Pittman,WR,IND,725486656899080192,,jittounas,jittounas
+4.0,10.0,6943,1.8,WR,1.0,LWR,Gabe Davis,WR,BUF,725486656899080192,,jittounas,jittounas
+4.0,10.0,5022,12.2,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+4.0,10.0,5967,1.3,FLEX,1.0,RB,Tony Pollard,RB,DAL,725486656899080192,,jittounas,jittounas
+4.0,10.0,2028,11.52,SUPER_FLEX,1.0,QB,Derek Carr,QB,LV,725486656899080192,,jittounas,jittounas
+5.0,10.0,4984,35.16,QB,1.0,QB,Josh Allen,QB,BUF,725486656899080192,,jittounas,jittounas
+5.0,10.0,4149,5.6,RB,1.0,RB,Jamaal Williams,RB,DET,725486656899080192,,jittounas,jittounas
+5.0,10.0,2320,11.8,RB,1.0,RB,Melvin Gordon,RB,DEN,725486656899080192,,jittounas,jittounas
+5.0,10.0,6819,8.4,WR,1.0,LWR,Michael Pittman,WR,IND,725486656899080192,,jittounas,jittounas
+5.0,10.0,6943,30.6,WR,1.0,LWR,Gabe Davis,WR,BUF,725486656899080192,,jittounas,jittounas
+5.0,10.0,5022,17.5,TE,1.0,,Dallas Goedert,TE,PHI,725486656899080192,,jittounas,jittounas
+5.0,10.0,4035,19.4,FLEX,1.0,RB,Alvin Kamara,RB,NO,725486656899080192,,jittounas,jittounas
+5.0,10.0,2028,17.94,SUPER_FLEX,1.0,QB,Derek Carr,QB,LV,725486656899080192,,jittounas,jittounas

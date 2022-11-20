@@ -9,7 +9,7 @@ QB,5870,Daniel Jones,QB,NYG
 ,1347,Chris Gragg,TE,
 ,5381,Johnny Townsend,P,
 ,1023,Mike Pouncey,C,
-,5300,Kenny Young,LB,NO
+,5300,Kenny Young,LB,
 ,7328,Asmar Bilal,LB,
 NT,608,Corey Peters,DT,JAX
 ,3925,Lee Hightower,FS,
@@ -61,7 +61,7 @@ LT,7728,James Hudson,OT,CLE
 ,2874,Leon Mackey,DE,
 FS,2383,P.J. Williams,CB,NO
 ,8248,Kalil Pimpleton,WR,NYG
-FS,7224,Sam Franklin,DB,CAR
+SS,7224,Sam Franklin,DB,CAR
 ,6374,Drew Belcher,TE,
 ,2025,Albert Wilson,WR,LV
 ,6160,Josiah Tauaefa,ILB,
@@ -71,11 +71,11 @@ FS,7224,Sam Franklin,DB,CAR
 LG,2333,Laken Tomlinson,OL,NYJ
 ,929,Davon House,CB,
 SWR,4218,Trent Taylor,WR,CIN
-PR,7609,Demetric Felton,RB,CLE
+SWR,7609,Demetric Felton,RB,CLE
 LDT,7799,Roy Lopez,DT,HOU
 ,7515,Sergio Castillo,K,
-TE,2446,MyCole Pruitt,TE,ATL
-PR,6333,Keisean Nixon,CB,GB
+RTE,2446,MyCole Pruitt,TE,ATL
+NB,6333,Keisean Nixon,CB,GB
 ,2653,Brian Parker,TE,
 ,1369,Tommy Bohanon,FB,
 LDE,6858,James Lynch,DT,MIN
@@ -86,7 +86,7 @@ LDE,6858,James Lynch,DT,MIN
 ,4712,Johnny Ragin,ILB,
 ,7160,Ledarius Mack,LB,
 ,6527,Austin Droogsma,G,
-RG,4282,Corey Levin,G,TEN
+C,4282,Corey Levin,G,TEN
 ,789,Curtis Marsh,CB,
 ,3443,Chris Swain,FB,
 ,3364,Maurice Canady,CB,
@@ -118,7 +118,7 @@ RG,3248,Isaac Seumalo,G,PHI
 ,516,Aaron Hernandez,TE,
 ,4244,Devante Mays,RB,
 ,5682,Cayson Collins,OLB,
-RCB,7630,Greg Newsome,CB,CLE
+NB,7630,Greg Newsome,CB,CLE
 ,3654,Kevin Bowen,OT,
 ,4376,Michael Clark,WR,
 ,7142,Dustin Woodard,OL,
@@ -263,7 +263,7 @@ QB,4179,Joshua Dobbs,QB,CLE
 ,4631,Charlie Miller,FS,
 ,8074,Matt Seybert,TE,
 ,2119,James Franklin,QB,
-LCB,5864,Byron Murphy,CB,ARI
+NB,5864,Byron Murphy,CB,ARI
 ,3655,Reggie Diggs,WR,
 RILB,4606,Dylan Cole,LB,TEN
 ,7000,Chapelle Russell,LB,PIT
@@ -288,7 +288,7 @@ NT,754,Al Woods,DT,SEA
 RWR,830,A.J. Green,WR,ARI
 ,6581,Derick Roberson,LB,
 ,5384,Jonah Trinnaman,WR,
-TE,7553,Kyle Pitts,TE,ATL
+LTE,7553,Kyle Pitts,TE,ATL
 ,8761,Josh Rivas,G,
 ,1015,Jed Collins,FB,
 ,2075,Dustin Vaughan,QB,
@@ -334,7 +334,7 @@ FS,5674,Andre Chachere,DB,PHI
 MLB,5960,T.J. Edwards,LB,PHI
 ,7823,Nate Hobbs,CB,LV
 ,2686,Khari Lee,TE,
-TE,1339,Zach Ertz,TE,ARI
+,1339,Zach Ertz,TE,ARI
 SLB,7821,Garret Wallow,LB,HOU
 LG,1993,Tyler Shatley,OL,JAX
 ,3875,Nila Kasitati,G,
@@ -348,14 +348,14 @@ SS,3268,Eric Murray,DB,HOU
 ,4523,Lucas Crowley,C,
 RB,6845,Zack Moss,RB,IND
 ,145,Rashard Mendenhall,RB,
-NB,4216,Desmond King,DB,HOU
+RCB,4216,Desmond King,DB,HOU
 RG,7041,Robert Hunt,OL,MIA
 ,3315,K.J. Dillon,FS,
 ,1094,Mike Martin,DT,
 ,6602,Braxton Hoyett,DT,
 ,940,Andre Holmes,WR,
 ,1634,Jason Weaver,OT,
-NB,8714,Josh Blackwell,CB,CHI
+RCB,8714,Josh Blackwell,CB,CHI
 ,1813,Randell Johnson,LB,
 ,5687,Anthony Sherrils,DB,
 RCB,4126,Fabian Moreau,CB,NYG
@@ -370,7 +370,7 @@ RCB,4126,Fabian Moreau,CB,NYG
 ,5663,Shane Wimann,RB,
 ,6338,Ira Savage-Lewis,NT,
 ,5295,De'Mornay Pierson-El,WR,
-KR,5536,Dontrell Hilliard,RB,TEN
+RB,5536,Dontrell Hilliard,RB,TEN
 ,7929,Jake Burton,G,
 ,7176,Caleb Repp,TE,
 ,6269,Kyle Shurmur,QB,
@@ -378,7 +378,7 @@ KR,5536,Dontrell Hilliard,RB,TEN
 ,1654,Zach Sudfeld,TE,
 SS,5655,Ryan Neal,SS,SEA
 ,6703,Andrew Wellock,K,
-NB,8386,Damarri Mathis,DB,DEN
+RCB,8386,Damarri Mathis,DB,DEN
 ,3060,Kevin Coyle,,
 ,8610,Caleb Jones,T,GB
 ,5643,Austin Fleer,OT,
@@ -405,7 +405,7 @@ LG,1900,Joel Bitonio,OG,CLE
 SS,6872,Kyle Dugger,DB,NE
 ,7980,John Raine,FB,
 ,362,David Johnson,TE,
-LWR,1352,Robert Woods,WR,TEN
+RWR,1352,Robert Woods,WR,TEN
 ,8233,Mataeo Durant,RB,
 LILB,6949,Jordyn Brooks,LB,SEA
 ,5909,Hamp Cheevers,CB,
@@ -425,7 +425,7 @@ RB,5967,Tony Pollard,RB,DAL
 ,4867,Rick Smith,,
 PK,49,Robbie Gould,K,SF
 ,7382,Dominique Ross,LB,
-RCB,8470,Joshua Williams,CB,KC
+LCB,8470,Joshua Williams,CB,KC
 ,4308,Deron Washington,FS,
 ,4458,Zach Franklin,CB,
 ,6547,Isaiah Wharton,SS,
@@ -456,7 +456,7 @@ RB,4455,Matt Breida,RB,NYG
 ,5376,Jack Cichy,LB,
 ,6111,Jake Browning,QB,CIN
 ,7961,Jose Borregales,K,
-,7119,Kenny Robinson,DB,CAR
+,7119,Kenny Robinson,DB,
 ,2655,Nick Dzubnar,LB,
 ,8798,Felix Harper,QB,
 DT,6510,Jalen Dalton,DT,ATL
@@ -491,7 +491,7 @@ NT,5042,Deadrin Senat,DT,TB
 ,3836,James Cowser,OLB,
 ,3804,Darrin Peterson,WR,
 ,7100,Derrick Dillon,WR,
-LOLB,5158,Dennis Gardeck,LB,ARI
+ROLB,5158,Dennis Gardeck,LB,ARI
 ,3350,Cory James,OLB,
 ,4262,Derrick Jones,CB,
 ,6113,Garrett Brumfield,G,
@@ -550,7 +550,7 @@ NT,4371,Josh Tupou,DT,CIN
 ,2011,Juwan Thompson,RB,
 ,2084,Devon Kennard,LB,BAL
 FB,8025,Adam Prentice,FB,NO
-MLB,8363,Jack Sanborn,LB,CHI
+WLB,8363,Jack Sanborn,LB,CHI
 ,4502,Cameron Lee,G,
 ,4665,Eli Jenkins,QB,
 ,4504,John Robinson-Woodgett,RB,
@@ -561,7 +561,7 @@ MLB,6651,Anthony Pittman,LB,DET
 ,3475,Keyarris Garrett,WR,
 ,1792,Kadron Boone,WR,
 ,7105,Ramiz Ahmed,K,GB
-RDE,8776,Kingsley Jonathan,DT,CHI
+,8776,Kingsley Jonathan,DT,BUF
 ,1095,Coty Sensabaugh,CB,
 ,4439,Breon Borders,CB,
 ,8064,Max Roberts,LB,
@@ -630,7 +630,7 @@ LCB,5888,Amani Oruwariye,CB,DET
 ,761,Brian St Pierre,QB,
 RB,6039,Ty Johnson,RB,NYJ
 ,79,Stefan Charles,DT,
-NT,8347,Eyioma Uwazurike,DL,DEN
+LDE,8347,Eyioma Uwazurike,DL,DEN
 ,8801,Dennis Houston,WR,DAL
 ,116,Ryan Clady,OT,
 ,2232,Demetrius Rhaney,C,
@@ -673,7 +673,7 @@ QB,5806,John Wolford,QB,LAR
 ,4699,Kevin Snead,WR,
 ,6764,Derrick Moncrief,LB,
 ,4821,Jamari Staples,WR,
-,928,Randall Cobb,WR,GB
+SWR,928,Randall Cobb,WR,GB
 ,7313,Liam McCullough,LS,ATL
 ,4873,Kris Richard,,
 RCB,8308,Derek Stingley,DB,HOU
@@ -724,7 +724,7 @@ RG,2438,Mark Glowinski,G,NYG
 ,7987,Darius Hodge,DE,
 ,442,Geoff Schwartz,G,
 ,4462,Erik Magnuson,C,
-,8899,Prince Emili,DT,
+,8899,Prince Emili,DT,NO
 ,1160,Tahir Whitehead,LB,
 ,7617,Matt Ammendola,K,
 DE,5297,Zach Sieler,DT,MIA
@@ -738,7 +738,7 @@ ROLB,8382,Kingsley Enagbare,DL,GB
 ,7060,Ben Bartch,OL,JAX
 ,3427,Trae Elston,SS,
 ,8533,Josh Sokol,C,MIN
-LS,8907,Jack Coco,LS,GB
+,8907,Jack Coco,LS,GB
 LT,734,Trent Williams,T,SF
 ,4908,Steve Keim,,
 QB,96,Aaron Rodgers,QB,GB
@@ -748,7 +748,7 @@ MLB,1507,Jon Bostic,LB,WAS
 RILB,6997,Shaquille Quarterman,LB,JAX
 ,5715,R.J. Prince,OG,
 RG,5610,Evan Brown,C,DET
-TE,8210,Chigoziem Okonkwo,TE,TEN
+LTE,8210,Chigoziem Okonkwo,TE,TEN
 ,1964,Ulrick John,T,
 ,5091,Parry Nickerson,CB,MIN
 ,1686,Tony Jefferson,DB,NYG
@@ -821,11 +821,11 @@ NT,6948,Leki Fotu,DT,ARI
 ,250,Matt Spaeth,TE,
 SWR,2750,DeAndre Carter,WR,LAC
 ,5429,Jeremiah Kolone,OL,LAR
-K,2020,Cairo Santos,K,CHI
+PK,2020,Cairo Santos,K,CHI
 ,655,Anquan Boldin,WR,
 QB,2306,Jameis Winston,QB,NO
 ,8004,Devon Key,DB,ATL
-LCB,3838,Antonio Hamilton,CB,ARI
+RCB,3838,Antonio Hamilton,CB,ARI
 ,3023,Damian Parms,SS,
 ,3347,Jake Rudock,QB,
 ,8229,Isaiah Weston,WR,CLE
@@ -860,7 +860,7 @@ RCB,6785,Jeff Okudah,CB,DET
 NT,5073,Sebastian Joseph-Day,DT,LAC
 ,8594,Tyrese Robinson,G,PHI
 WLB,7127,Shaun Bradley,LB,PHI
-ROLB,7836,Tony Fields,LB,CLE
+WLB,7836,Tony Fields,LB,CLE
 SWR,5880,Parris Campbell,WR,IND
 ,6736,Sean Smith,CB,
 ,5467,Tigie Sankoh,SS,
@@ -874,7 +874,7 @@ RWR,3918,TJ Thorpe,WR,
 ,1252,Jeris Pendleton,DT,
 RDE,8342,Esezi Otomewo,DL,MIN
 ,7471,David Reese,LB,
-LT,5423,Trenton Scott,T,PIT
+LT,5423,Trent Scott,T,PIT
 ,2284,Fred Williams,WR,
 ,7201,Nick Vogel,K,
 ,2541,Dexter McDonald,CB,
@@ -914,7 +914,7 @@ QB,4046,Patrick Mahomes,QB,KC
 ,3846,Duke Williams,WR,
 ,1182,Josh Norman,CB,
 ,565,Tony Moeaki,TE,
-C,1950,James Ferentz,OL,NE
+RG,1950,James Ferentz,OL,NE
 ,6346,Yurik Bethune,DE,
 ,6401,T.J. Rahming,WR,
 ,2878,Jean Fanor,FS,
@@ -970,7 +970,7 @@ TE,5285,Ross Dwelley,TE,SF
 ,2774,Shakim Phillips,WR,
 ,5677,Mo Porter,OT,
 ,1248,Josh LeRibeus,G,
-SWR,5970,Greg Dortch,WR,ARI
+PR,5970,Greg Dortch,WR,ARI
 NT,7801,Quinton Bohanna,DT,DAL
 ,5224,Taj Williams,WR,
 ,2784,Jameill Showers,SS,
@@ -987,7 +987,7 @@ RDE,7024,James Smith-Williams,DE,WAS
 ,5911,Jalen Hurd,WR,
 ,1370,William Campbell,G,
 ,3613,Ronald Zamort,CB,
-,4399,Eric Smith,T,TEN
+,4399,Eric Smith,T,
 RDT,3308,Matt Ioannidis,DT,CAR
 ,2526,Martin Ifedi,DE,
 ,2171,Freddie Martino,WR,
@@ -998,7 +998,7 @@ DE,3743,Morgan Fox,DE,LAC
 ,2118,Eric Ebron,TE,PIT
 FS,8726,Brenden Schooler,DB,NE
 ,3458,Avery Young,G,
-LOLB,4449,Nicholas Morrow,LB,CHI
+MLB,4449,Nicholas Morrow,LB,CHI
 ,6542,Anthony Rush,DT,
 ,2546,Darryl Roberts,CB,
 ,4645,Evan Schwan,DE,
@@ -1017,7 +1017,7 @@ LOLB,4449,Nicholas Morrow,LB,CHI
 PK,650,Nick Folk,K,NE
 ,5511,Chris Frey,LB,
 LOLB,6183,Andrew Van Ginkel,LB,MIA
-RWR,6063,Tyron Johnson,WR,HOU
+,6063,Tyron Johnson,WR,
 ,6194,Rick Spielman,,
 ,3104,Paul Depodesta,,
 LCB,8305,Montaric Brown,DB,JAX
@@ -1090,7 +1090,7 @@ SWR,4622,Keelan Cole,WR,LV
 RDE,7629,Payton Turner,DE,NO
 ,7516,Hunter Niswander,P,DAL
 ,4214,Shelton Gibson,WR,
-C,5645,Nick Gates,C,NYG
+LG,5645,Nick Gates,C,NYG
 ,2706,Terry Williams,NT,
 C,3671,Jake Reed,C,
 LT,8451,Ikem Ekwonu,T,CAR
@@ -1098,7 +1098,7 @@ LT,8451,Ikem Ekwonu,T,CAR
 ,1277,Chris Lewis-Harris,CB,
 ,2254,Asante Cleveland,TE,
 ,5709,Luis Perez,QB,
-NB,8298,Mario Goodrich,DB,PHI
+,8298,Mario Goodrich,DB,PHI
 ,4229,Mason Schreck,TE,HOU
 ,4476,Greg Mabin,CB,TEN
 ,7234,Maurice Ffrench,WR,
@@ -1113,7 +1113,7 @@ FS,4188,Damontae Kazee,DB,PIT
 ,4242,Kofi Amichia,G,
 ,4768,Adam Zaruba,TE,
 ,8268,Lewis Cine,DB,MIN
-ROLB,7681,Baron Browning,LB,DEN
+WLB,7681,Baron Browning,LB,DEN
 ,7337,Easop Winston,WR,SEA
 ,5837,Redford Jones,K,
 LCB,4124,Ahkello Witherspoon,CB,PIT
@@ -1132,7 +1132,7 @@ QB,7523,Trevor Lawrence,QB,JAX
 ,6979,Damar Hamlin,S,
 ,2282,Fitzgerald Toussaint,RB,
 QB,7583,Sam Ehlinger,QB,IND
-,8876,Kevin Kassis,WR,SEA
+,8876,Kevin Kassis,WR,
 LT,4716,Dan Skipper,T,DET
 ,1048,Lamar Miller,RB,
 ,1327,Ronald Leary,G,
@@ -1275,7 +1275,7 @@ RWR,4234,Noah Brown,WR,DAL
 ,6170,Darrell Williams,OLB,
 ,2974,De'Ante Saunders,S,
 ,5607,Ja'Von Rolland-Jones,DE,
-TE,6662,Parker Hesse,TE,ATL
+RTE,6662,Parker Hesse,TE,ATL
 ,3658,Joe Kerridge,FB,
 ,2247,Walter Powell,WR,
 ,3942,Kyle Steuck,C,
@@ -1284,7 +1284,7 @@ TE,6662,Parker Hesse,TE,ATL
 ,8019,Devontres Dukes,WR,
 ,6604,Mathieu Betts,DL,
 ,3422,Kyle Friend,C,
-RCB,5905,Justin Layne,CB,CHI
+LCB,5905,Justin Layne,CB,CHI
 QB,7585,Davis Mills,QB,HOU
 ,4141,Delano Hill,DB,
 ,3550,Jarrod Wilson,DB,
@@ -1292,7 +1292,7 @@ QB,2152,Teddy Bridgewater,QB,MIA
 ,4615,Dayon Pratt,OLB,
 ,7560,Pooka Williams,RB,
 ,2996,Logan Stokes,TE,
-RDE,8270,Devonte Wyatt,DL,GB
+LDE,8270,Devonte Wyatt,DL,GB
 ,407,Will Beatty,OT,
 RT,1722,Mike Remmers,T,NYJ
 ,6483,Markus Jones,OLB,
@@ -1312,7 +1312,7 @@ LILB,815,Nick Bellore,LB,SEA
 ,5112,Bo Scarbrough,RB,
 ,7151,Chris Williamson,CB,
 ,4959,Scott Daly,LS,DET
-LCB,5416,Brandon Facyson,CB,IND
+RCB,5416,Brandon Facyson,CB,IND
 ,6454,Trevon Tate,G,
 ,2915,Taylor Pontius,K,
 ,2576,Cody Fajardo,QB,
@@ -1321,12 +1321,12 @@ LILB,7672,Ernest Jones,LB,LAR
 ,5033,Dorian O'Daniel,LB,
 ,8889,William Kwenkeu,LB,MIN
 ,2832,Chris Hackett,FS,
-PR,8475,Montrell Washington,WR,DEN
+SWR,8475,Montrell Washington,WR,DEN
 ,3997,Leslie Frazier,,
 ,8421,Mike Harley,WR,CLE
 ,42,Frostee Rucker,DE,
 ,2720,Brian Peters,LB,
-C,4122,Dan Feeney,OL,NYJ
+RG,4122,Dan Feeney,OL,NYJ
 NT,3207,Andrew Billings,DT,LV
 ,7303,Bryan Wright,LB,
 ,3971,Chan Gailey,,
@@ -1367,7 +1367,7 @@ LCB,7669,Paulson Adebo,CB,NO
 ,8675,Derek Schweiger,OL,
 ,8231,Cam'Ron Harris,RB,
 ,3549,Pearce Slater,G,
-RDE,5378,Jacob Martin,DE,DEN
+WLB,5378,Jacob Martin,DE,DEN
 ,3968,Norv Turner,,
 LT,6029,Jackson Barton,T,LV
 ,3995,Todd Downing,,
@@ -1395,7 +1395,7 @@ LG,7003,Damien Lewis,G,SEA
 ,8564,Donovan Jeter,DT,
 ,4604,Eli Ankou,DT,BUF
 LCB,3345,Anthony Brown,CB,DAL
-LOLB,7788,Victor Dimukeje,LB,ARI
+ROLB,7788,Victor Dimukeje,LB,ARI
 TE,4189,Eric Saubert,TE,DEN
 RT,2362,Rob Havenstein,OL,LAR
 ,3016,Jermaine Whitehead,FS,
@@ -1489,12 +1489,12 @@ RWR,8137,George Pickens,WR,PIT
 ,3518,Connor Wujciak,DT,
 ,5689,Josh Fatu,DT,
 ,242,Brent Grimes,CB,
-NT,8331,Otito Ogbonnia,DL,LAC
+,8331,Otito Ogbonnia,DL,LAC
 ,5100,Jordan Wilkins,RB,IND
 ,7749,JR Pace,DB,
 ,1834,Malcolm Butler,CB,
 ,1039,Tavon Wilson,DB,SF
-TE,2545,Geoff Swaim,TE,TEN
+RTE,2545,Geoff Swaim,TE,TEN
 ,5477,Reggie Hunter,LB,
 ,4858,Ken Norton Jr.,,
 RWR,4454,Kendrick Bourne,WR,NE
@@ -1502,10 +1502,10 @@ RWR,4454,Kendrick Bourne,WR,NE
 ,6911,Brandon Jones,DB,MIA
 ,5659,John Atkins,DT,
 ,2621,Terron Ward,RB,
-RDE,5865,Dre'Mont Jones,DE,DEN
+LDE,5865,Dre'Mont Jones,DE,DEN
 ,713,Kendrick Lewis,FS,
 ,4539,Greg Pyke,G,
-,4549,Rashaad Coward,OL,ARI
+LG,4549,Rashaad Coward,OL,ARI
 ,8216,Kaleb Eleby,QB,
 ,4041,Jay Gruden,,
 ,5542,Naashon Hughes,ILB,
@@ -1516,11 +1516,11 @@ RDE,5865,Dre'Mont Jones,DE,DEN
 ,2920,Jeret Smith,WR,
 ,7021,Rico Dowdle,RB,DAL
 ,2623,Robenson Therezie,SS,
-LT,6808,Josh Jones,OL,ARI
+RT,6808,Josh Jones,OL,ARI
 ,5628,Cavon Walker,DT,
 PK,391,Ryan Succop,K,TB
 ,2842,Andrae Kirk,OLB,
-RG,6426,Chandler Brewer,OL,LAR
+,6426,Chandler Brewer,OL,LAR
 ,4985,Rashaad Penny,RB,SEA
 ,4049,Bradley Sylve,CB,
 ,271,Greg Warren,LS,
@@ -1629,7 +1629,7 @@ RB,6790,D'Andre Swift,RB,DET
 ,5172,Alvin Jones,ILB,
 ,772,Ramon Humber,LB,
 ,6342,Stephen Louis,WR,
-SWR,1817,Sammy Watkins,WR,GB
+LWR,1817,Sammy Watkins,WR,GB
 ,2137,John Fullington,G,
 LG,3913,Joel Hale,G,
 RWR,7565,Terrace Marshall,WR,CAR
@@ -1662,7 +1662,7 @@ LDE,7646,Boogie Basham,DE,BUF
 ,282,Alan Branch,DT,
 SLB,6131,Mack Wilson,LB,NE
 ,4896,Brian Callahan,,
-SS,2719,Anthony Harris,DB,DEN
+FS,2719,Anthony Harris,DB,DEN
 ,387,Knowshon Moreno,RB,
 ,582,Riley Cooper,WR,
 ,4824,Duplicate Player,CB,
@@ -1750,7 +1750,7 @@ RG,2034,Gabe Jackson,G,SEA
 RG,4991,James Daniels,OL,PIT
 ,7279,DeMichael Harris,WR,
 ,1056,Asa Jackson,CB,
-,4435,Anthony Firkser,TE,ATL
+RTE,4435,Anthony Firkser,TE,ATL
 ,8579,Brandon Peters,QB,
 ,1446,Jeremy Harris,CB,
 ,7549,CJ Marable,RB,
@@ -1835,7 +1835,7 @@ SS,7761,Tre Norwood,DB,PIT
 ,2807,Keshaun Malone,ILB,
 ,2189,Tyler Gaffney,RB,
 ,1587,Vance McDonald,TE,
-RCB,5328,Tremon Smith,DB,HOU
+LCB,5328,Tremon Smith,DB,HOU
 ,7513,Manny Patterson,DB,
 ,8352,Chris Steele,DB,
 ,8708,Nasir Greer,DB,
@@ -1885,7 +1885,7 @@ SS,1205,Rodney McLeod,DB,IND
 ,2332,Byron Jones,CB,MIA
 ,1573,Zac Stacy,RB,
 SWR,4197,Isaiah McKenzie,WR,BUF
-LILB,5340,Andre Smith,LB,TEN
+,5340,Andre Smith,LB,TEN
 ,7742,Kion Smith,T,MIA
 RDE,6795,Ross Blacklock,DT,MIN
 ,6879,Quartney Davis,WR,
@@ -1920,23 +1920,23 @@ TE,6850,Harrison Bryant,TE,CLE
 ,1800,Jordan Matthews,TE,SF
 RT,1340,Lane Johnson,T,PHI
 ,1071,Mohamed Sanu,WR,
-,8488,Zachary Thomas,OL,CHI
+LT,8488,Zachary Thomas,OL,LAR
 ,1504,Demontre Hurst,CB,
 ,3227,T.J. Green,DB,HOU
-RT,7838,Larry Borom,OL,CHI
+LT,7838,Larry Borom,OL,CHI
 ,3084,Rex Ryan,,
 ,1107,Coby Fleener,TE,
 ,4275,Justin Senior,OT,
 ,3437,Lloyd Carrington,CB,
 ,6621,John Baron,K,
-ROLB,8403,Sterling Weatherford,DB,CHI
+MLB,8403,Sterling Weatherford,DB,CHI
 ,3520,Jay Lee,WR,
 ,77,Zak DeOssie,LS,
 ,4383,Adam Pankey,T,NYJ
 ,7038,Darius Anderson,RB,HOU
 ,1211,Rhett Ellison,TE,
 LDE,7693,Chauncey Golston,DE,DAL
-PR,4158,Eddie Jackson,DB,CHI
+FS,4158,Eddie Jackson,DB,CHI
 ,4871,Mike Munchak,,
 ,3453,Josh Ferguson,RB,
 ,7033,Debione Renfro,CB,
@@ -1954,7 +1954,7 @@ TE,3712,Adam Fuehne,TE,
 ,919,Aldrick Robinson,WR,
 ,1814,Cyrus Kouandjio,T,
 ,8864,Ben Beise,TE,
-,4050,Cyril Grayson,WR,CLE
+,4050,Cyril Grayson,WR,
 ,5157,Alec James,DE,
 SS,8353,Verone McKinley,DB,MIA
 ,3963,Shahid Khan,,
@@ -1980,7 +1980,7 @@ RDT,4975,Taven Bryan,DE,CLE
 ,2012,Chase Vaughn,ILB,
 ,646,Karlos Dansby,LB,
 ,4567,Channing Stribling,CB,
-LG,3250,Le'Raven Clark,T,TEN
+LT,3250,Le'Raven Clark,T,TEN
 ,5693,Beau Nunn,G,
 ,1656,Joe Vellano,DT,
 WLB,7020,Cam Brown,LB,NYG
@@ -2089,7 +2089,7 @@ TE,8111,Cade Otton,TE,TB
 ,4396,Drew Morgan,WR,
 ,3843,Kyrie Wilson,ILB,
 ,7962,Sadarius Hutcherson,OG,
-,8805,Mika Tafua,DE,DAL
+,8805,Mika Tafua,DE,
 ,1230,Jeremy Lane,CB,
 ,8027,Tre Harbison,RB,
 ,8078,Brontae Harris,DB,
@@ -2120,10 +2120,10 @@ PK,7839,Evan McPherson,K,CIN
 ,6117,Dennis Allen,,
 ,609,Antone Smith,RB,
 ,4165,Julien Davenport,T,ARI
-PR,5908,Amani Hooker,DB,TEN
+SS,5908,Amani Hooker,DB,TEN
 ,8422,Travis Levy,RB,
 ,7555,Jamie Newman,QB,
-LILB,3363,Kamu Grugier-Hill,LB,ARI
+RILB,3363,Kamu Grugier-Hill,LB,ARI
 ,7409,Isaac Alarcon,OT,DAL
 ,4851,Stephen Ross,,
 ,8814,Zein Obeid,G,
@@ -2148,7 +2148,7 @@ SS,4974,Terrell Edmunds,DB,PIT
 ,5405,Cole Boozer,OT,WAS
 ,3816,Brandon Brown-Dukes,RB,
 ,926,Anthony Walters,FS,
-KOS,1433,Brandon McManus,K,DEN
+PK,1433,Brandon McManus,K,DEN
 ,4194,J.J. Dielman,G,
 ,2858,BJ Larsen,DE,
 ,1750,Giorgio Tavecchio,K,
@@ -2186,10 +2186,10 @@ LG,2192,Andrew Norwell,OL,WAS
 ,5303,Joel Iyiegbuniwe,LB,CAR
 ,2188,David Foucault,T,
 ,697,Leon Washington,RB,
-RDE,2340,Mario Edwards,DE,TEN
+DE,2340,Mario Edwards,DE,TEN
 ,228,Fred Jackson,RB,
 ,2270,Justin Britt,OL,HOU
-FS,3279,Juston Burris,DB,CAR
+SS,3279,Juston Burris,DB,CAR
 ,3813,Tre Roberson,CB,
 ,2605,Merrill Noel,DB,
 ,1371,Dee Milliner,CB,
@@ -2245,7 +2245,7 @@ C,1789,Josh Andrews,C,NO
 ,3010,Cole Manhart,G,
 RWR,7944,Mike Strachan,WR,IND
 ,2644,Terrance Plummer,LB,
-,579,Linval Joseph,DT,
+RDT,579,Linval Joseph,DT,PHI
 ,1005,D'Anthony Smith,DT,
 ,2593,Antwan Goodley,WR,
 ,6605,Cortrelle Simpson,WR,
@@ -2284,7 +2284,7 @@ LDE,7633,Kwity Paye,DE,IND
 ,4839,Mitch Leidner,QB,
 ,4878,Brandon Zylstra,WR,DET
 ,2643,Deshazor Everett,DB,WAS
-,6963,Patrick Taylor,RB,GB
+RB,6963,Patrick Taylor,RB,GB
 SWR,7601,Rondale Moore,WR,ARI
 ,3849,Wynton McManis,LB,MIA
 SWR,8414,Britain Covey,WR,PHI
@@ -2362,9 +2362,9 @@ RG,3812,Cory Tucker,G,
 ,249,Chad Greenway,LB,
 QB,5089,Mike White,QB,NYJ
 ,3794,Darren Lake,NT,
-,2986,Greg Mancz,OL,BUF
+,2986,Greg Mancz,OL,
 FS,6711,Jalen Thompson,DB,ARI
-NT,2827,DeShawn Williams,DT,DEN
+RDE,2827,DeShawn Williams,DT,DEN
 ,2954,BJ McBryde,DT,
 ,121,LeRon McClain,RB,
 SS,5930,Jaquan Johnson,DB,BUF
@@ -2373,7 +2373,7 @@ SS,5930,Jaquan Johnson,DB,BUF
 ,6606,Nick Fitzgerald,QB,
 ,1454,Montee Ball,RB,
 ,8065,Troy Warner,DB,
-RWR,2309,Amari Cooper,WR,CLE
+LWR,2309,Amari Cooper,WR,CLE
 WLB,5370,Marcell Harris,LB,NYJ
 ,1663,Abry Jones,DT,
 ,5216,Ervin Philips,WR,
@@ -2410,7 +2410,7 @@ RG,7758,Will Fries,G,IND
 ,5544,Marcus Porter,ILB,
 ,3499,Dillon Lee,OLB,
 ,2629,Sam Meredith,DE,
-TE,3202,Austin Hooper,TE,TEN
+LTE,3202,Austin Hooper,TE,TEN
 RWR,2673,Damiere Byrd,WR,ATL
 ,8897,Liam Ryan,T,
 ,192,Adam Hayward,ILB,
@@ -2434,7 +2434,7 @@ NT,6494,Bryan Mone,DT,SEA
 ,4703,DeAngelo Brown,NT,
 FS,6419,P.J. Locke,DB,DEN
 ,2862,Tony Johnson,K,
-FS,6210,Darnell Savage,DB,GB
+NB,6210,Darnell Savage,DB,GB
 ,1293,Jeremy Stewart,RB,
 ,5729,Quinterrius Eatmon,OT,
 ,6592,Dontae Strickland,RB,
@@ -2445,7 +2445,7 @@ FS,6210,Darnell Savage,DB,GB
 ,5117,Jordan Thomas,TE,
 ,5485,Conor Sheehy,NT,
 ,4547,Nigel Williams,DT,
-SWR,8135,Treylon Burks,WR,TEN
+LWR,8135,Treylon Burks,WR,TEN
 ,6688,Johnny Gibson,G,
 ,8786,Desmond Noel,OL,
 ,7684,Jalen Mayfield,OL,ATL
@@ -2487,14 +2487,14 @@ SLB,6610,Demetrius Flannigan-Fowles,LB,SF
 ,7978,Tre Walker,WR,
 ,6555,AJ Cole,P,LV
 ,1880,Lorenzo Taliaferro,RB,
-,4073,Taco Charlton,DE,NO
+LDE,4073,Taco Charlton,DE,CHI
 ,2590,Yannik Cudjoe-Virgil,LB,
 ,4914,Glen Coffee,RB,SF
 ,4519,Devine Redding,RB,
 ,7624,Carson Williams,TE,
 ,2519,Neal Sterling,TE,
 ,3957,Blake Sims,QB,
-PR,8121,Romeo Doubs,WR,GB
+RWR,8121,Romeo Doubs,WR,GB
 ,4452,Xavier Woodson,OLB,
 ,8929,Nate Wieland,LB,
 ,2466,Ryan Russell,DE,
@@ -2502,7 +2502,7 @@ PR,8121,Romeo Doubs,WR,GB
 RG,5963,Nate Herbig,G,NYJ
 RDE,4112,Tarell Basham,DE,DAL
 ,5143,Demario Richard,RB,
-RWR,6783,Jerry Jeudy,WR,DEN
+SWR,6783,Jerry Jeudy,WR,DEN
 ,5074,Micah Kiser,LB,LV
 ,7924,Jaytlin Askew,CB,
 ,4583,Cameron Hunt,G,
@@ -2523,7 +2523,7 @@ RCB,7712,Robert Rochell,DB,LAR
 ,90,Tamba Hali,LB,
 OLB,3706,Jason Neill,OLB,
 ,4493,Damien Mama,G,
-LWR,8235,Samori Toure,WR,GB
+SWR,8235,Samori Toure,WR,GB
 ,5685,Chad Meredith,OLB,
 ,5809,Ja'Quan Gardner,RB,
 LG,7656,Jackson Carman,G,CIN
@@ -2544,7 +2544,7 @@ RG,8472,Darian Kinnard,T,KC
 ,6052,Khalil Hodge,ILB,
 ,4891,Jeremy Bates,,
 ,6138,Saivion Smith,CB,DET
-,7531,Feleipe Franks,TE,ATL
+LTE,7531,Feleipe Franks,TE,ATL
 ,1206,Isaiah Pead,RB,
 ,8190,Abram Smith,RB,
 ,8224,Cole Kelley,QB,
@@ -2646,7 +2646,7 @@ RT,4104,Taylor Moton,T,CAR
 ,7079,Pete Guerriero,RB,
 ,933,DJ Smith,K,
 ,606,Joe Webb,QB,
-RDT,8357,Marquan McCall,DL,CAR
+LDT,8357,Marquan McCall,DL,CAR
 LG,6952,Jonah Jackson,G,DET
 ,1586,Corey Lemonier,DE,
 ,1158,Kellen Moore,QB,
@@ -2658,8 +2658,8 @@ LG,6952,Jonah Jackson,G,DET
 ,729,Jermelle Cudjo,DT,
 ,4675,Otha Peters,ILB,
 ,1500,Jordan Reed,TE,
-,2671,Josh Lambo,K,TEN
-TE,5171,Kevin Rader,TE,TEN
+PK,2671,Josh Lambo,K,TEN
+RTE,5171,Kevin Rader,TE,TEN
 ,7,Kurt Warner,QB,
 RDE,3915,Jack Gangwish,DE,
 ,1075,Emmanuel Acho,LB,
@@ -2689,12 +2689,12 @@ RB,1387,Rex Burkhead,RB,HOU
 ,5311,R.J. McIntosh,DT,
 ,3879,Jimmy Pruitt,CB,
 ,6239,Malik Taylor,WR,
-LS,8071,Mitchell Fraboni,LS,DEN
+,8071,Mitchell Fraboni,LS,DEN
 ,738,Clark Harris,LS,CIN
 DT,6120,Christian Wilkins,DT,MIA
 ,8922,Harrison Elliott,LS,
 ,3063,Jordan Leslie,WR,
-DT,7664,Christian Barmore,DT,NE
+,7664,Christian Barmore,DT,NE
 ,5146,Matt Gono,OT,
 DEF,CLE,CLE,DEF,CLE
 ,2939,Javess Blue,WR,
@@ -2703,7 +2703,7 @@ DEF,CLE,CLE,DEF,CLE
 ,1933,Taylor Lewan,OT,TEN
 ,6763,Reggie Begelton,WR,
 ,259,Kevin Williams,DT,
-LWR,2821,Jake Kumerow,WR,BUF
+,2821,Jake Kumerow,WR,BUF
 ,4266,Shalom Luani,SS,
 ,997,Malcolm Smith,LB,
 ,8042,Chris Naggar,K,
@@ -2860,7 +2860,7 @@ TE,7891,Brock Wright,TE,DET
 ,643,Earl Thomas,FS,
 ,6466,Daryle Banfield,NT,
 ,3327,Alex Collins,RB,
-FS,3714,Charles Washington,DB,ARI
+SS,3714,Charles Washington,DB,ARI
 ,5160,A.J. Howard,SS,
 FS,1366,Duron Harmon,DB,LV
 ,4128,Chad Williams,WR,
@@ -2917,12 +2917,12 @@ SS,7136,Kamren Curl,DB,WAS
 ,5358,Anthony Manzo-Lewis,TE,
 ,1051,Quinton Coples,DE,
 WLB,6214,Quincy Williams,LB,NYJ
-LWR,5323,Equanimeous St. Brown,WR,CHI
+RWR,5323,Equanimeous St. Brown,WR,CHI
 ,2094,Zach Hocker,K,
 ,2955,CJ Conway,CB,
 ,4803,Nate Iese,TE,
 ,520,John Conner,FB,
-NB,8925,Tre Avery,CB,TEN
+LCB,8925,Tre Avery,CB,TEN
 ,3148,Anthony Dable,WR,
 ,8199,D'Eriq King,QB,CAR
 ,438,Nick Hayden,DT,
@@ -2946,7 +2946,7 @@ RDE,3232,Adam Gotsis,DE,JAX
 ,2497,Randall Evans,DB,
 ,1873,Richie Leone,P,
 ,1771,M Harris,WR,
-,7877,Hamilcar Rashed,DE,PIT
+,7877,Hamilcar Rashed,DE,
 ,2642,Houston Bates,LB,
 ,5988,Mitch Hyatt,OL,
 SWR,7603,Shi Smith,WR,CAR
@@ -2956,13 +2956,13 @@ SWR,7603,Shi Smith,WR,CAR
 ,501,Cary Williams,CB,
 ,4475,Sefo Liufau,QB,
 ,3149,Aaron Grymes,CB,
-LCB,5048,Isaac Yiadom,CB,HOU
+,5048,Isaac Yiadom,CB,NO
 ,6929,Brian Cole,DB,
 ,8370,Jordan Jackson,DL,NO
 ,3890,Devon Bell,K,
 ,531,Joe Haden,CB,
 RG,2194,Trai Turner,G,WAS
-PR,8223,Velus Jones,WR,CHI
+SWR,8223,Velus Jones,WR,CHI
 ,6478,Ryan Crozier,G,
 SWR,4681,Reggie Davis,WR,
 ,727,Anthony Dixon,RB,
@@ -2980,7 +2980,7 @@ RDE,8398,Jermaine Johnson,LB,NYJ
 ,3587,Stefan McClure,SS,
 ,2911,Justin Manton,K,
 ,3334,D.J. White,CB,
-,8669,Sage Doxtater,OL,ARI
+,8669,Sage Doxtater,OL,
 ,2595,Tim Semisch,TE,
 ,4632,Carroll Phillips,DE,
 ,8881,Willie Johnson,WR,
@@ -3067,7 +3067,7 @@ LWR,8076,Michael Bandy,WR,LAC
 ,7280,Carter O'Donnell,T,IND
 ,6104,Alijah Holder,DB,
 C,7774,Jimmy Morrissey,OL,HOU
-LOLB,6965,Jonathan Garvin,LB,GB
+ROLB,6965,Jonathan Garvin,LB,GB
 LILB,7936,Amen Ogbongbemiga,LB,LAC
 ,7099,Tom Flacco,QB,
 ,5211,Jake Wieneke,WR,
@@ -3079,7 +3079,7 @@ LG,8524,Ja'Tyre Carter,OL,CHI
 ,2929,Adrian Coxson,WR,
 ,3827,Aldrick Rosas,K,
 ,7431,Eli Mencer,DE,
-,6940,Shyheim Carter,DB,TEN
+,6940,Shyheim Carter,DB,
 ,3278,Pharoh Cooper,WR,NYG
 ,235,Terence Newman,CB,
 ,4802,Derrick Nelson,C,
@@ -3104,7 +3104,7 @@ QB,7083,Tyler Huntley,QB,BAL
 ,7550,Warren Jackson,WR,
 ,5052,Ronald Jones,RB,KC
 FB,5565,Jason Cabinda,FB,DET
-LILB,7683,Monty Rice,LB,TEN
+RILB,7683,Monty Rice,LB,TEN
 ,8557,Diego Fagot,LB,
 ,6737,Micky Crum,TE,
 ,1679,Earl Okine,LB,
@@ -3144,7 +3144,7 @@ RB,6813,Jonathan Taylor,RB,IND
 ,7285,Donald Rutledge,LB,ARI
 RT,2324,Cameron Erving,T,CAR
 ,6727,Joe Walker,WR,
-LCB,6925,Essang Bassey,CB,DEN
+NB,6925,Essang Bassey,CB,DEN
 RCB,6969,Dane Jackson,CB,BUF
 ,7963,Elijah Ponder,LB,
 WLB,5031,Oren Burks,LB,SF
@@ -3165,7 +3165,7 @@ DE,4241,Pat O'Connor,DE,TB
 ,2404,Paul Dawson,LB,
 ,8335,Kolby Harvell-Peel,DB,
 ,2875,Tony Creecy,RB,
-RILB,4225,Tanner Vallejo,LB,ARI
+LILB,4225,Tanner Vallejo,LB,ARI
 ,6061,Drew Lewis,ILB,
 ,3390,Lachlan Edwards,P,
 ,6383,Anree Saint-Amour,DE,
@@ -3251,7 +3251,7 @@ FS,2501,Quandre Diggs,DB,SEA
 ,636,Chris Maragos,SS,
 ,1487,Joseph Randle,RB,
 ,792,Julian Vandervelde,G,
-LCB,2067,Terrance Mitchell,DB,TEN
+RCB,2067,Terrance Mitchell,DB,TEN
 ,3798,Shahbaz Ahmed,G,
 RB,7543,Travis Etienne,RB,JAX
 ,8192,Curtis Hodges,TE,WAS
@@ -3285,7 +3285,7 @@ LCB,1518,Darius Slay,CB,PHI
 ,1460,Sylvester Williams,DT,
 ,4580,Dante Barnett,FS,
 NB,8359,Marcus Jones,DB,NE
-,7381,Niko Lalos,DE,
+,7381,Niko Lalos,DE,NO
 SLB,6179,Jahlani Tavai,LB,NE
 ,7085,Isaiah Coulter,WR,BUF
 ,8912,Khalique Washington,OL,
@@ -3365,7 +3365,7 @@ RDE,1947,Jadeveon Clowney,DE,CLE
 ,7223,Jason Ferris,LB,
 ,68,Mario Manningham,WR,
 ,1854,Quincy Enunwa,WR,
-P,5721,Corey Bojorquez,P,CLE
+,5721,Corey Bojorquez,P,CLE
 ,3897,Paul Lang,TE,
 ,5528,Montrel Meander,LB,
 ,1827,Arthur Lynch,TE,
@@ -3534,7 +3534,7 @@ LWR,5038,Michael Gallup,WR,DAL
 ,7219,Branden Bowen,OL,
 SLB,6612,Luke Gifford,LB,DAL
 ,4208,Rodney Adams,WR,
-ROLB,2147,Joe Thomas,LB,CHI
+SLB,2147,Joe Thomas,LB,CHI
 ,7266,Travis Bruffy,OL,
 ,1503,Michael Ford,RB,
 ,2040,Scott Simonson,TE,
@@ -3602,7 +3602,7 @@ RT,1428,David Quessenberry,OL,BUF
 ,157,Vince Young,QB,
 ,2328,Shane Ray,LB,
 ,7412,Sandro Platzgummer,RB,NYG
-ROLB,8322,Jesse Luketa,LB,ARI
+LOLB,8322,Jesse Luketa,LB,ARI
 ,7638,Alijah Vera-Tucker,OL,NYJ
 ROLB,2427,Za'Darius Smith,LB,MIN
 ,4799,Jeremy Faulk,DT,
@@ -3631,7 +3631,7 @@ LG,3226,Cody Whitehair,OL,CHI
 ,2059,Davon Coleman,DT,
 RG,7123,Mike Onwenu,OL,NE
 ,8748,TJ Carter,DB,LAR
-DT,2517,Christian Covington,DT,LAC
+,2517,Christian Covington,DT,LAC
 ,45,Dan Carpenter,K,
 LOLB,6436,Malik Reed,LB,PIT
 NB,8293,Coby Bryant,DB,SEA
@@ -3640,7 +3640,7 @@ NB,8293,Coby Bryant,DB,SEA
 ,3753,Jordan Swindle,OT,
 ,8426,LD Brown,RB,
 RDE,2308,Dante Fowler,LB,DAL
-SS,5178,Sean Chandler,DB,CAR
+FS,5178,Sean Chandler,DB,CAR
 ,4607,Zach Conque,QB,
 ,4733,Alex Gray,TE,
 ,7867,Spencer Brown,RB,CAR
@@ -3666,7 +3666,7 @@ TE,8172,Greg Dulcich,TE,DEN
 ,142,Tony Romo,QB,
 ,6246,Jeremy Cox,RB,
 ,5367,Shaun Dion Hamilton,LB,
-,4344,C.J. Board,WR,TEN
+RWR,4344,C.J. Board,WR,TEN
 ,4711,Jonah Pirsig,OT,
 ,2428,Vince Mayle,TE,
 MLB,7155,Tae Crowder,LB,NYG
@@ -3695,7 +3695,7 @@ RG,5936,Nate Davis,G,TEN
 ,7446,Tucker McCann,K,
 ,7081,James Morgan,QB,
 ,865,Chris Prosinski,FS,
-LDE,6125,Jeffery Simmons,DT,TEN
+DT,6125,Jeffery Simmons,DT,TEN
 ,3251,Jordan Jenkins,DE,LV
 ,6718,Jordan McCray,G,
 LDT,5371,Kentavius Street,DT,NO
@@ -3732,7 +3732,7 @@ QB,421,Matthew Stafford,QB,LAR
 FS,1079,Tashaun Gipson,DB,SF
 ,6607,Nate Trewyn,C,
 ,5698,Brett Kendrick,OT,
-RWR,5917,Mecole Hardman,WR,KC
+,5917,Mecole Hardman,WR,KC
 ,881,Ricky Stanzi,QB,
 ,4002,Eliot Wolf,,
 ,2583,Tyrell Williams,WR,
@@ -3759,7 +3759,7 @@ LT,7714,Dan Moore,OT,PIT
 ,1401,Martin Wallace,OT,
 ,3056,Ryan Pace,,
 ,4407,Sam McCaskill,DE,
-,5938,Lil'Jordan Humphrey,WR,NE
+,5938,Lil'Jordan Humphrey,WR,
 RDE,871,Von Miller,LB,BUF
 ,2947,Clay Burton,TE,
 ,4830,Austin Gearing,LB,
@@ -3830,7 +3830,7 @@ FS,5876,Julian Love,DB,NYG
 ,2949,Synjyn Days,RB,
 SS,8834,Trevor Denbow,DB,IND
 SS,4238,Xavier Woods,DB,CAR
-,7362,David Moa,DT,
+,7362,David Moa,DT,LAC
 ,4246,Jalen Myrick,CB,
 ,2717,Leon Orr,DT,
 LG,2318,Andrus Peat,OL,NO
@@ -3851,7 +3851,7 @@ PK,1348,Dustin Hopkins,K,LAC
 LCB,4964,Denzel Ward,CB,CLE
 ,8122,Zonovan Knight,RB,NYJ
 ,6695,Alex Brown,CB,
-ROLB,2363,Markus Golden,LB,ARI
+LOLB,2363,Markus Golden,LB,ARI
 ,2085,Kelcy Quarles,DE,
 ,3844,Aaron Epps,OT,
 ,3529,Nile Lawrence-Stample,NT,
@@ -3864,14 +3864,14 @@ FB,1379,Kyle Juszczyk,FB,SF
 ,4845,Antonio Crawford,CB,
 ,5200,Dee Liner,DE,
 ,8318,Jayden Peevy,DL,TEN
-,7895,Mac McCain,CB,PHI
+,7895,Mac McCain,CB,
 ,3607,Trevon Hartfield,CB,
 ,5771,Kiante Anderson,DE,
 ,1118,Brandon Marshall,LB,
 ,1528,Nate Palmer,LB,
 ,1629,LaAdrian Waddle,T,
 ,1614,Frankie Hammond,WR,
-,6040,Tyree Jackson,TE,PHI
+TE,6040,Tyree Jackson,TE,PHI
 ,3109,Ted Monachino,,
 ,8627,Kekaula Kaniho,DB,
 ,470,Jerraud Powers,CB,
@@ -3904,7 +3904,7 @@ RB,8205,Isiah Pacheco,RB,KC
 ,4916,Royce LaFrance,DE,
 NB,6935,Josiah Scott,CB,PHI
 ,5922,Mike Bell,LB,
-RDT,2143,Mike Pennel,DT,CHI
+LDT,2143,Mike Pennel,DT,CHI
 ,4514,Chanceller James,SS,
 ,3788,Tanner McEvoy,WR,
 ,3941,Tylor Harris,DT,
@@ -3955,7 +3955,7 @@ RCB,8389,Akayleb Evans,DB,MIN
 ,7855,Blake Haubeil,K,
 ,499,Connor Barth,K,
 ,886,Taiwan Jones,RB,BUF
-,2014,Laurent Duvernay-Tardif,OL,
+,2014,Laurent Duvernay-Tardif,OL,NYJ
 ,7156,J'Mar Smith,QB,
 ,4772,Dejaun Butler,CB,
 LILB,5726,Robert Spillane,LB,PIT
@@ -3967,7 +3967,7 @@ LILB,5726,Robert Spillane,LB,PIT
 ,475,Gregory Toler,CB,
 ,6628,Ventell Bryant,WR,
 ,5004,Ito Smith,RB,DAL
-,5345,Matt Adams,LB,CHI
+WLB,5345,Matt Adams,LB,CHI
 ,4416,Austin Carr,WR,
 ,3137,Curtis Modkins,,
 ,7341,Eric Banks,DE,ARI
@@ -3992,7 +3992,7 @@ LG,8460,Sean Rhyan,OL,GB
 ,1801,Quron Pratt,WR,
 ,4647,Colin Thompson,TE,CAR
 ,4178,Donnel Pumphrey,RB,
-WLB,8311,Terrel Bernard,LB,BUF
+MLB,8311,Terrel Bernard,LB,BUF
 ,6582,Jocquez Kalili,DB,
 ,3859,Jalen Simmons,RB,
 ,2371,Jeremiah Poutasi,OL,LV
@@ -4017,14 +4017,14 @@ RT,4966,Mike McGlinchey,T,SF
 ,4689,Jamal Carter,DB,
 SS,8871,Nolan Turner,DB,TB
 ,6648,Brock Ruble,OT,
-TE,6843,Albert Okwuegbunam,TE,DEN
+,6843,Albert Okwuegbunam,TE,DEN
 ,2759,Nick Perry,FS,
 ,6462,Ellis Richardson,TE,
 ,365,Mike Wallace,WR,
-PK,17,Matt Prater,K,ARI
+KOS,17,Matt Prater,K,ARI
 ,4384,Aaron Peck,TE,
 ,3492,Jalin Marshall,WR,
-RWR,7090,Darnell Mooney,WR,CHI
+SWR,7090,Darnell Mooney,WR,CHI
 ,85,Justin Tuck,DE,
 ,8573,Talolo Limi-Jones,WR,
 ,8755,Kaden Davis,WR,DEN
@@ -4094,7 +4094,7 @@ SS,7659,Tre'von Moehrig,DB,LV
 ,4595,Dontez Ford,WR,
 ,774,Vincent Rey,LB,
 LT,7115,Charlie Heck,T,HOU
-,3306,Jordan Howard,RB,NO
+,3306,Jordan Howard,RB,
 ,524,Kyle Wilson,CB,
 LWR,2319,DeVante Parker,WR,NE
 RCB,3160,Jalen Ramsey,CB,LAR
@@ -4149,8 +4149,8 @@ C,6004,Andre James,C,LV
 ,5517,Mike Needham,LB,
 ,434,Garrett Reynolds,G,
 SS,7701,Tyree Gillespie,DB,JAX
-,8728,Kody Russey,OL,NE
-RDE,2027,Denico Autry,DE,TEN
+C,8728,Kody Russey,OL,NE
+LOLB,2027,Denico Autry,DE,TEN
 FS,7044,Julian Blackmon,DB,IND
 ,5214,Holton Hill,CB,
 ,1676,Ja'Gared Davis,ILB,
@@ -4356,7 +4356,7 @@ RUSH,4075,Charles Harris,LB,DET
 ,7719,Jordan Smith,DE,JAX
 ,8703,Jean Delance,T,ARI
 ,8208,Tyler Badie,RB,BAL
-RCB,6876,A.J. Green,CB,CLE
+NB,6876,A.J. Green,CB,CLE
 ,3663,Chris Mayes,OT,
 ,8430,Anthony Russo,QB,
 ,2087,Jordan Stanton,DE,
@@ -4382,7 +4382,7 @@ RCB,7824,Keith Taylor,CB,CAR
 ,2626,Kevin White,CB,
 ,4874,Chris Bazile,TE,
 SWR,7596,Elijah Moore,WR,NYJ
-,8828,Michael Young,WR,HOU
+,8828,Michael Young,WR,
 ,2256,Dillon Farrell,G,
 ,1957,Tom Savage,QB,
 ,3703,Deon King,OLB,
@@ -4406,7 +4406,7 @@ QB,8002,Shane Buechele,QB,KC
 ,8245,Derrick Deese,TE,
 ,7802,Tarron Jackson,DE,PHI
 ,981,Daniel Kilgore,C,
-SWR,7540,Amari Rodgers,WR,GB
+SWR,7540,Amari Rodgers,WR,HOU
 ,4129,Jourdan Lewis,CB,DAL
 ,5194,Matt Flanagan,TE,
 ,2005,Corey Nelson,LB,
@@ -4425,7 +4425,7 @@ RUSH,878,Justin Houston,LB,BAL
 ,7457,Michael Dereus,WR,
 ,8840,Cole Fotheringham,TE,LV
 ,620,Preston Parker,WR,
-LILB,2617,Alex Singleton,LB,DEN
+RILB,2617,Alex Singleton,LB,DEN
 ,3616,Mitchell Loewen,DE,
 RB,7611,Rhamondre Stevenson,RB,NE
 ,3507,Landon Turner,G,
@@ -4460,7 +4460,7 @@ DEF,LAC,LAC,DEF,LAC
 ,8843,Bamidele Olaseni,OT,LV
 ,1372,Sheldon Richardson,DT,
 ,4726,Nico Marley,LB,
-RCB,5853,Trayvon Mullen,CB,ARI
+LCB,5853,Trayvon Mullen,CB,ARI
 C,2141,Corey Linsley,C,LAC
 ,781,Teddy Williams,CB,
 ,2931,Deshon Foxx,WR,
@@ -4488,7 +4488,7 @@ DE,6116,John Cominsky,DE,DET
 ,3945,Darius White,WR,
 ,8866,JoJo Ozougwu,DE,
 ,2867,Mike McFarland,TE,
-LOLB,6307,Jordan Kunaszyk,LB,CLE
+MLB,6307,Jordan Kunaszyk,LB,CLE
 ,6670,Sterling Sheffield,OLB,
 NB,5424,Tony Brown,DB,IND
 QB,4972,Mason Rudolph,QB,PIT
@@ -4510,7 +4510,7 @@ SS,544,Kareem Jackson,DB,DEN
 LWR,5937,Diontae Johnson,WR,PIT
 ,2944,Matt LaCosse,TE,NE
 DEF,BAL,BAL,DEF,BAL
-LG,7675,Wyatt Davis,G,ARI
+RG,7675,Wyatt Davis,G,ARI
 ,3477,Jack Allen,C,
 ,6368,Shane Bowman,DE,
 ,892,Andrew Gachkar,LB,
@@ -4523,7 +4523,7 @@ LG,7675,Wyatt Davis,G,ARI
 ,5383,Jalen Tolliver,WR,
 ,3133,Kathryn Smith,,
 ,2100,Silas Redd,RB,
-RDE,4086,DeMarcus Walker,DE,TEN
+DE,4086,DeMarcus Walker,DE,TEN
 ,4957,Moubarak Djeri,DE,
 ,6635,Derrick Kelly,OL,NO
 RILB,8266,Quay Walker,LB,GB
@@ -4550,7 +4550,7 @@ LG,7923,Robert Jones,G,MIA
 ,166,Josh Cribbs,WR,
 ,1384,Jayson DiManche,LB,
 ,2547,Ryan Murphy,SS,
-KOS,59,Mason Crosby,K,GB
+PK,59,Mason Crosby,K,GB
 ,7451,Cam Gill,LB,TB
 ,1394,Sean Porter,OLB,
 ,6934,Ben Bredeson,G,NYG
@@ -4578,7 +4578,7 @@ C,1826,Tyler Larsen,C,WAS
 ,5288,Donnie Ernsberger,TE,TEN
 ,7844,Sam Kamara,LB,CLE
 ,2846,Marquez Clark,WR,
-LDE,4278,D.J. Jones,DT,DEN
+,4278,D.J. Jones,DT,DEN
 ,1427,Sam Montgomery,DE,
 ,6096,Jamell Garcia-Williams,LB,
 ,629,Dan Williams,DT,
@@ -4602,7 +4602,7 @@ TE,6181,Trevon Wesco,TE,CHI
 ,4468,Antony Auclair,TE,TEN
 ,1064,Vontaze Burfict,LB,
 ,1910,Connor Shaw,QB,
-,7364,Blake Lynch,LB,ARI
+,7364,Blake Lynch,LB,
 ,2413,Jalston Fowler,FB,
 ,5293,Jordan Veasy,WR,
 ,5123,Trenton Cannon,RB,TEN
@@ -4720,12 +4720,12 @@ NT,5847,Dexter Lawrence,DT,NYG
 RB,4018,Joe Mixon,RB,CIN
 ,2838,Trevor Harman,WR,
 ,5210,Korey Robertson,WR,
-,4069,Takkarist McKinley,DE,
-LS,525,Morgan Cox,LS,TEN
+,4069,Takk McKinley,DE,DAL
+,525,Morgan Cox,LS,TEN
 ,2662,Cameron Botticelli,DE,
 ,7710,Janarius Robinson,DE,PHI
 ,7092,Chris Finke,WR,
-SS,5736,Dallin Leavitt,DB,GB
+FS,5736,Dallin Leavitt,DB,GB
 ,7402,Julian Good-Jones,G,
 ,3778,Darrell Greene,G,
 ,5955,Hunter Renfrow,WR,LV
@@ -4746,7 +4746,7 @@ LG,4970,Quenton Nelson,OL,IND
 ,8559,Josh Babicz,TE,GB
 ,653,Tanner Purdum,LS,
 RDT,5191,Taylor Stallworth,DT,KC
-RB,4152,Marlon Mack,RB,DEN
+,4152,Marlon Mack,RB,DEN
 LDE,8385,George Karlaftis,DL,KC
 QB,7589,Ian Book,QB,PHI
 ,35,Desmond Bishop,ILB,
@@ -4781,14 +4781,14 @@ WLB,5757,Josh Woods,LB,DET
 QB,4335,PJ Walker,QB,CAR
 ,3216,Kamalei Correa,LB,
 ,3817,Marcus Tucker,WR,
-RG,8474,Luke Wattenberg,OL,DEN
+C,8474,Luke Wattenberg,OL,DEN
 ,8588,De'Vante Cross,CB,
 ,371,Connor Barwin,LB,
 ,3910,Pete Carroll,,
 ,2700,Levi Norwood,WR,
 ,5130,Auden Tate,WR,PHI
 ,4844,Elijah Mitchell,CB,
-RDE,8850,Ben Stille,DT,CLE
+RDT,8850,Ben Stille,DT,CLE
 ,4251,Tanzel Smart,DT,NYJ
 ,1538,Ryan Schraeder,T,
 ,6187,Aca'Cedric Ware,RB,
@@ -4822,7 +4822,7 @@ TE,7216,Giovanni Ricci,FB,CAR
 NT,8306,John Ridgeway,DL,WAS
 ,1214,Blair Walsh,K,
 ,3590,Adam Redmond,C,BAL
-ROLB,7651,Jeremiah Owusu-Koramoah,LB,CLE
+WLB,7651,Jeremiah Owusu-Koramoah,LB,CLE
 LWR,1426,DeAndre Hopkins,WR,ARI
 DEF,PHI,PHI,DEF,PHI
 ,1758,Kashif Moore,WR,
@@ -4853,7 +4853,7 @@ RDT,3939,Zach Colvin,DT,
 ,2062,Anthony Hitchens,LB,KC
 ,1459,Kayvon Webster,CB,
 ,7375,Keith Washington,DB,
-,8544,Myron Cunningham,OL,NYJ
+,8544,Myron Cunningham,OL,
 ,1133,Devon Wylie,WR,
 ,1743,Brittan Golden,WR,
 RB,6694,D'Ernest Johnson,RB,CLE
@@ -4885,7 +4885,7 @@ RCB,4136,Rasul Douglas,CB,GB
 ,8885,Tucker Fisk,TE,ATL
 ,5713,Mike Jones,CB,
 ,3907,Kyler Kerbyson,OT,
-RT,7650,Dillon Radunz,OL,TEN
+LG,7650,Dillon Radunz,OL,TEN
 ,5538,Fred Lauina,G,
 ,7293,Luq Barcoo,CB,
 ,7439,Tommy Hudson,TE,TEN
@@ -4976,7 +4976,7 @@ RG,1368,Oday Aboushi,G,LAR
 ,3460,Ross Martin,K,
 ,647,Richie Incognito,G,
 RILB,1233,Bobby Wagner,LB,LAR
-P,2113,Pat O'Donnell,P,GB
+,2113,Pat O'Donnell,P,GB
 ,6659,Craig Reynolds,RB,DET
 LILB,3276,De'Vondre Campbell,LB,GB
 ,7141,Sterling Hofrichter,P,
@@ -5004,7 +5004,7 @@ DT,7122,Broderick Washington,DT,BAL
 FS,4223,Rudy Ford,DB,GB
 ,6895,Quintez Cephus,WR,DET
 ,69,Santana Moss,WR,
-SWR,8202,Michael Woods,WR,CLE
+RWR,8202,Michael Woods,WR,CLE
 ,3267,Parker Ehinger,G,
 TE,6826,Cole Kmet,TE,CHI
 ,6066,Joey Alfieri,OLB,
@@ -5021,12 +5021,12 @@ LWR,5927,Terry McLaurin,WR,WAS
 ,694,Reggie Walker,LB,
 ,4347,Daniel Henry,FS,BAL
 ,7918,A.J. Rose,RB,
-RWR,7496,Nick Westbrook-Ikhine,WR,TEN
+SWR,7496,Nick Westbrook-Ikhine,WR,TEN
 ,3082,Gus Bradley,,
 ,287,Brad Smith,WR,
 ,5656,Aaron Evans,G,
 ,7610,Trey Lance,QB,SF
-KR,8189,Trestan Ebner,RB,CHI
+RB,8189,Trestan Ebner,RB,CHI
 ,5481,Sean Welsh,G,
 ,6601,Isaiah Mack,DT,BAL
 TE,6075,Jesper Horsted,TE,LV
@@ -5105,7 +5105,7 @@ SS,5882,Taylor Rapp,DB,LAR
 ,5286,Austin Allen,QB,
 ,3053,Shane McDermott,G,
 ,3240,Darian Thompson,DB,DAL
-DT,5871,Zach Allen,DE,ARI
+LDE,5871,Zach Allen,DE,ARI
 ,3168,Christian Hackenberg,QB,
 ,5352,Ryan Green,RB,
 ,5174,Tegray Scales,LB,CIN
@@ -5116,7 +5116,7 @@ FS,6314,Cam Lewis,CB,BUF
 ,4793,Peli Anau,DE,
 ,6936,Joseph Charlton,P,
 ,7422,Ronnell Perkins,S,
-RCB,5079,Darius Phillips,CB,DEN
+LCB,5079,Darius Phillips,CB,DEN
 ,1041,Ron Brooks,CB,
 ,4500,Andrew Lauderdale,OT,
 ,2828,Erick Dargan,S,
@@ -5124,7 +5124,7 @@ RCB,5079,Darius Phillips,CB,DEN
 SWR,5137,Richie James,WR,NYG
 ,6382,Tito Odenigbo,DT,
 ,514,Brandon Deaderick,DE,
-RCB,8365,Kyler Gordon,DB,CHI
+NB,8365,Kyler Gordon,DB,CHI
 ,3370,Joey Hunt,C,SEA
 ,1194,Leonard Johnson,CB,
 SWR,1825,Jarvis Landry,WR,NO
@@ -5248,7 +5248,7 @@ LDE,1038,Chandler Jones,LB,LV
 ,1053,Damon Harrison,DT,
 ,2748,Kevin Monangai,RB,
 ,5087,JK Scott,P,LAC
-RILB,6981,Tipa Galeai,LB,GB
+,6981,Tipa Galeai,LB,GB
 ,2909,Beau Gardner,TE,
 ,4529,Ryan Lewis,CB,
 ,3467,Taylor Bertolet,K,LAC
@@ -5285,7 +5285,7 @@ DT,4166,Carlos Watkins,DE,DAL
 RG,4989,Austin Corbett,OL,CAR
 ,2101,Lache Seastrunk,RB,
 ,4193,Jordan Morgan,G,
-SS,5883,Lonnie Johnson,DB,TEN
+,5883,Lonnie Johnson,DB,TEN
 ,1493,Eric Herman,G,
 ,872,Mike Mohamed,LB,
 ,1951,C.J. Fiedorowicz,TE,
@@ -5311,7 +5311,7 @@ RT,7691,Spencer Brown,OT,BUF
 ,3988,Joe Barry,,
 ,99,Allen Barbre,G,
 ,5464,De'Lance Turner,RB,
-RDT,7804,Marlon Tuipulotu,DT,PHI
+,7804,Marlon Tuipulotu,DT,PHI
 LILB,3885,James Ross,ILB,
 ,1712,Jordan Mabin,CB,
 RB,5995,Justice Hill,RB,BAL
@@ -5338,7 +5338,7 @@ LILB,7268,Krys Barnes,LB,GB
 ,5241,Christian Blake,WR,
 ,762,James Starks,RB,
 ,1496,Justin Pugh,OL,ARI
-,5142,Kurt Benkert,QB,SF
+,5142,Kurt Benkert,QB,
 ,1149,Alshon Jeffery,WR,
 ,7579,Austin Watkins,WR,
 ,7416,Leo Lewis,LB,
@@ -5352,7 +5352,7 @@ LILB,7268,Krys Barnes,LB,GB
 ,3651,Geno Matias-Smith,SS,
 ,6406,Juwann Bushell-Beatty,OT,
 ,8056,Jake Verity,K,
-PR,6824,Donovan Peoples-Jones,WR,CLE
+RWR,6824,Donovan Peoples-Jones,WR,CLE
 ,330,Dustin Colquitt,P,
 ,7779,JaCoby Stevens,LB,
 ,4555,Andy Phillips,K,
@@ -5386,14 +5386,14 @@ C,3403,Austin Blythe,OL,SEA
 ,3934,Troymaine Pope,RB,
 ,6331,Koa Farmer,OLB,
 LDT,5841,Ed Oliver,DT,BUF
-MLB,6315,Tyrel Dodson,LB,BUF
+WLB,6315,Tyrel Dodson,LB,BUF
 LILB,5843,Devin Bush,LB,PIT
 ,1054,Stephen Hill,WR,
 ,7373,Gus Cumberlander,DE,
 ,7435,Cameron Scarlett,RB,
 ,3742,Brandon Chubb,OLB,
 ,5473,Lyndon Johnson,NT,
-RWR,7210,Kendall Hinton,WR,DEN
+LWR,7210,Kendall Hinton,WR,DEN
 ,2044,Brelan Chancellor,WR,
 ,920,Evan Royster,RB,
 ,5457,Christian LaCouture,NT,
@@ -5415,7 +5415,7 @@ DT,8492,Sam Roberts,DE,NE
 DE,125,Calais Campbell,DE,BAL
 NT,7443,Teair Tart,DT,TEN
 ,3536,Tyler Marcordes,OLB,
-,2391,David Johnson,RB,
+,2391,David Johnson,RB,NO
 LCB,7796,Brandin Echols,CB,NYJ
 ,990,Kris Durham,WR,
 ,357,Tom Nelson,FS,
@@ -5492,7 +5492,7 @@ NB,3546,Mike Hilton,CB,CIN
 ,924,Stephen Paea,DT,
 RB,3969,Leonard Fournette,RB,TB
 LDE,5842,Clelin Ferrell,DE,LV
-,6753,Derrick Gore,RB,NO
+,6753,Derrick Gore,RB,
 ,6495,Jay-Tee Tiuli,NT,
 ,3455,Gerald Dixon,DT,
 RG,2437,Max Garcia,OL,ARI
@@ -5523,7 +5523,7 @@ DEF,NYJ,NYJ,DEF,NYJ
 ,1779,Mitchell White,CB,
 ,894,Corey Liuget,DT,
 ,6459,Sean Modster,WR,
-LS,2305,Charley Hughlett,LS,CLE
+,2305,Charley Hughlett,LS,CLE
 ,5459,Mason McKenrick,LB,
 ,6267,Dravon Askew-Henry,SS,
 ,2694,Carlos Thompson,LB,
@@ -5605,7 +5605,7 @@ RWR,8142,Alec Pierce,WR,IND
 ,2342,Devin Smith,WR,
 C,3689,Alex Cooper,C,
 ,3502,Romeo Okwara,LB,DET
-LWR,6395,Trinity Benson,WR,DET
+,6395,Trinity Benson,WR,DET
 FS,6724,C.J. Moore,DB,DET
 ,1812,Bryan Johnson,DE,
 ,5484,Filipo Mokofisi,DT,
@@ -5625,10 +5625,10 @@ RB,6151,Miles Sanders,RB,PHI
 ,5262,Steve Ishmael,WR,
 ,7237,Scotty Washington,WR,NE
 ,5961,Jalin Moore,RB,
-LWR,5185,Allen Lazard,WR,GB
+RWR,5185,Allen Lazard,WR,GB
 ,3211,Paul Perkins,RB,
 LWR,8176,Danny Gray,WR,SF
-,8634,Chris Pierce,TE,
+,8634,Chris Pierce,TE,ARI
 ,5292,Devin Ross,WR,
 ,8706,Kehinde Oginni Hassan,TE,
 ,4942,Marcell Ateman,WR,
@@ -5691,13 +5691,13 @@ LDE,1028,Vinny Curry,DE,NYJ
 ,8742,Duron Lowe,CB,
 ,3474,Briean Boddy-Calhoun,CB,TEN
 ,1375,Marc Anthony,CB,
-NT,8540,Sam Okuayinonu,DE,TEN
+LOLB,8540,Sam Okuayinonu,DE,TEN
 ,6492,Terry Wright,WR,
 ,6420,Jon'Vea Johnson,WR,
 ,3197,Emmanuel Ogbah,DE,MIA
 ,3356,Kyle Murphy,OT,NO
 ,2163,Shamar Stephen,DT,
-DE,856,J.J. Watt,DE,ARI
+RDE,856,J.J. Watt,DE,ARI
 RWR,6801,Tee Higgins,WR,CIN
 ,5124,Alex McGough,QB,
 MLB,7648,Nick Bolton,LB,KC
@@ -5707,7 +5707,7 @@ MLB,7648,Nick Bolton,LB,KC
 ,4729,Toby Baker,P,
 ,4576,Jahad Thomas,RB,
 DT,3874,Michael Smith,DT,
-LILB,7637,Zaven Collins,LB,ARI
+RILB,7637,Zaven Collins,LB,ARI
 ,560,Demaryius Thomas,WR,
 ,6062,Tyler Jones,G,
 ,5392,Jack Heneghan,QB,
@@ -5791,7 +5791,7 @@ C,3221,Nick Martin,C,WAS
 ,2126,Caraun Reid,DT,LAC
 ,3433,Alex Erickson,WR,WAS
 ,1806,Jaylen Watkins,SS,
-LS,1745,Patrick Scales,LS,CHI
+,1745,Patrick Scales,LS,CHI
 ,1462,Sanders Commings,CB,
 ROLB,2042,Jeremiah Attaochu,LB,LAC
 ,8633,Stephon Robinson,WR,
@@ -5892,7 +5892,7 @@ RB,5122,Boston Scott,RB,PHI
 ,8707,Tayon Fleet-Davis,RB,
 ,4765,Chunky Clements,NT,
 LG,1949,Matt Feiler,G,LAC
-,1122,Aaron Brewer,LS,ARI
+LS,1122,Aaron Brewer,LS,ARI
 RDE,4965,Marcus Davenport,DE,NO
 TE,2251,Logan Thomas,TE,WAS
 ,3412,Devon Johnson,RB,
@@ -5952,7 +5952,7 @@ RCB,3374,Kevon Seymour,CB,BAL
 ,6171,Cody Thompson,WR,SEA
 ,2745,Brad Bars,DE,
 ,7972,Tony Poljan,TE,
-,6951,Eno Benjamin,RB,HOU
+RB,6951,Eno Benjamin,RB,HOU
 ,7089,Michael Divinity,LB,
 ,6030,Jordan Brown,DB,
 TE,3048,Chris Manhertz,TE,JAX
@@ -6005,7 +6005,7 @@ RT,5047,Brian O'Neill,T,MIN
 ,5949,Paul Adams,OT,
 ,1799,Wade Keliikipi,NT,
 ,6508,Anthony Stubbs,OLB,
-MLB,1547,A.J. Klein,LB,CHI
+MLB,1547,A.J. Klein,LB,BUF
 ,2859,Justin Hamilton,DT,
 ,5705,John Franklin,WR,
 ,3103,Sean McDermott,,
@@ -6017,7 +6017,7 @@ MLB,1547,A.J. Klein,LB,CHI
 ,3155,Laquon Treadwell,WR,SEA
 LOLB,4070,T.J. Watt,LB,PIT
 ,1335,Matt Tobin,G,
-LDE,4259,Al-Quadin Muhammad,DE,CHI
+RDE,4259,Al-Quadin Muhammad,DE,CHI
 ,7179,Austin Capps,C,
 ,935,DJ Williams,TE,
 ,496,Brandon Gibson,WR,
@@ -6111,7 +6111,7 @@ LG,3247,Joe Thuney,OL,KC
 ,3338,Keenan Reynolds,WR,
 ,2301,Al Louis-Jean,CB,
 ,494,Jason Trusnik,LB,
-RILB,5334,Josey Jewell,LB,DEN
+LILB,5334,Josey Jewell,LB,DEN
 ,1473,Nick Kasa,TE,
 ,722,Crezdon Butler,CB,
 ,8605,George Moore,G,DAL
@@ -6153,14 +6153,14 @@ LT,8482,Vederian Lowe,OT,MIN
 MLB,6937,Khaleke Hudson,LB,WAS
 MLB,2330,Shaq Thompson,LB,CAR
 ,1672,Nickell Robey-Coleman,CB,LV
-RWR,8167,Christian Watson,WR,GB
+LWR,8167,Christian Watson,WR,GB
 ,641,Russell Okung,OT,
 ,43,Dan Connolly,G,
 ,1612,Tyler Bray,QB,
 ,2871,Isaac Fruechte,WR,
 ,1282,Ryan Davis,DE,
 ,6562,Blake Camper,OT,
-TE,5022,Dallas Goedert,TE,PHI
+,5022,Dallas Goedert,TE,PHI
 ,2023,De'Anthony Thomas,WR,
 ,195,Courtney Roby,WR,
 ,6451,Stephen Carlson,TE,
@@ -6187,7 +6187,7 @@ FB,8820,Troy Hairston,RB,HOU
 ,4023,Martin Mayhew,,
 ,4951,D.J. Chark,WR,DET
 ,6281,John Keenoy,C,
-LILB,7421,Jonas Griffith,LB,DEN
+,7421,Jonas Griffith,LB,DEN
 ,5227,Tanner Carew,LS,
 ,648,Brandon Marshall,WR,
 ,128,Vincent Jackson,WR,
@@ -6200,7 +6200,7 @@ LCB,5301,Anthony Averett,CB,LV
 ,185,Charles Tillman,CB,
 ,4543,Marcus Sayles,CB,
 RG,8713,Josh Sills,OL,PHI
-LWR,2381,Chris Conley,WR,TEN
+,2381,Chris Conley,WR,
 RWR,6149,Darius Slayton,WR,NYG
 SS,2287,Adrian Phillips,DB,NE
 WLB,5067,Arden Key,DE,JAX
@@ -6234,7 +6234,7 @@ LG,6884,Logan Stenberg,G,DET
 ,6513,Joe Lowery,G,
 ,3593,Anthony Kelly,WR,
 ,8115,Jalen Wydermyer,TE,IND
-LOLB,4572,Joe Jones,LB,TEN
+LILB,4572,Joe Jones,LB,TEN
 LG,2525,Bobby Hart,T,BUF
 ,6100,Ed Alexander,DT,
 ,7660,Liam Eichenberg,T,MIA
@@ -6257,7 +6257,7 @@ RDE,5816,Nick Bosa,DE,SF
 ,5103,Dylan Cantrell,TE,
 RWR,4319,Zach Pascal,WR,PHI
 SS,5860,Johnathan Abram,DB,GB
-,594,Ndamukong Suh,DT,
+LDT,594,Ndamukong Suh,DT,PHI
 RT,6008,Yoshuah Nijman,T,GB
 ,6010,Chidi Okeke,OT,
 ,1718,Derek Carrier,TE,
@@ -6282,7 +6282,7 @@ RB,8179,Snoop Conner,RB,JAX
 ,6766,Andrew Berry,,
 ,3564,Tre Madden,RB,
 RB,8123,Hassan Haskins,RB,TEN
-RCB,6283,Corey Ballentine,CB,GB
+LCB,6283,Corey Ballentine,CB,GB
 ,2304,Jerome Cunningham,TE,
 ,7188,Tyler Hall,DB,LV
 NB,4503,Arthur Maulet,CB,PIT
@@ -6361,7 +6361,7 @@ QB,4984,Josh Allen,QB,BUF
 ,618,Arrelious Benn,WR,
 ,455,Michael Crabtree,WR,
 RT,3017,Jesse Davis,OL,PIT
-LCB,7813,Shemar Jean-Charles,CB,GB
+RCB,7813,Shemar Jean-Charles,CB,GB
 ,4674,Jeremy Liggins,DT,
 ,4656,Tre Sullivan,SS,
 ,3510,Ron Thompson,DE,
@@ -6376,7 +6376,7 @@ LDT,5035,Derrick Nnadi,DT,KC
 ,5737,Drew Scott,LS,KC
 ,1004,Ben Tate,RB,
 RDT,3277,Hassan Ridgeway,DT,SF
-P,8538,Ryan Stonehouse,P,TEN
+,8538,Ryan Stonehouse,P,TEN
 ,1410,Jarvis Jones,LB,
 ,1849,Jace Amaro,TE,
 WLB,6867,Malik Harrison,LB,BAL
@@ -6396,7 +6396,7 @@ MLB,2353,Denzel Perryman,LB,LV
 NT,6831,Raekwon Davis,DT,MIA
 LDE,4113,Dawuane Smoot,DE,JAX
 ,4797,Josh Rounds,RB,
-LOLB,6211,Sione Takitaki,LB,CLE
+SLB,6211,Sione Takitaki,LB,CLE
 ,8035,Zach Von Rosenberg,P,
 ,7046,J.R. Reed,DB,
 RILB,7782,Isaiah McDuffie,LB,GB
@@ -6456,7 +6456,7 @@ RCB,7419,James Pierre,CB,PIT
 ,7368,Sean Riley,WR,
 ,1556,Kenny Vaccaro,SS,
 ,2155,Scott Crichton,DE,
-LT,1310,Tom Compton,OL,DEN
+RT,1310,Tom Compton,OL,DEN
 ,236,Domata Peko,DT,
 ,8003,DiCaprio Bootle,DB,KC
 ,4000,Trent Kirchner,,
@@ -6521,7 +6521,7 @@ SLB,6485,Azeez Al-Shaair,LB,SF
 ,4833,Connor Bozick,G,
 ,1082,Trent Richardson,RB,
 ,3462,Jared Dangerfield,WR,
-LG,3259,Graham Glasgow,G,DEN
+C,3259,Graham Glasgow,G,DEN
 ,7411,Matt Leo,DE,PHI
 ,6614,Jermaine Ponder,CB,
 ,808,Marcus Cannon,OL,NE
@@ -6531,7 +6531,7 @@ LG,3259,Graham Glasgow,G,DEN
 ,4655,Tyler Orlosky,C,
 ,6778,Chris Streveler,QB,NYJ
 ,8803,Quandre Mosely,DB,TB
-RWR,3328,Rashard Higgins,WR,CAR
+LWR,3328,Rashard Higgins,WR,CAR
 ,1972,Henoc Muamba,ILB,
 ,5776,Mark Chapman,WR,
 ,4893,Ryan Day,,
@@ -6572,7 +6572,7 @@ RDE,529,Carlos Dunlap,DL,KC
 ,6715,Anthony Smithson,S,
 ,5242,Dontez Byrd,WR,
 LILB,7346,Christian Rozeboom,LB,LAR
-PR,4992,Dante Pettis,WR,CHI
+LWR,4992,Dante Pettis,WR,CHI
 ,3722,Don Jackson,RB,
 LCB,972,Patrick Peterson,CB,MIN
 ,3270,B.J. Goodson,LB,
@@ -6617,7 +6617,7 @@ RT,7652,Sam Cosmi,OL,WAS
 ,7893,Dedrick Mills,RB,
 LOLB,8325,Arnold Ebiketie,DL,ATL
 LWR,6803,Brandon Aiyuk,WR,SF
-SWR,4420,Cody Hollister,WR,TEN
+LWR,4420,Cody Hollister,WR,TEN
 ,6517,Randy Ramsey,LB,
 ,6656,Connor Strachan,LB,HOU
 LWR,7595,Tylan Wallace,WR,BAL
@@ -6745,7 +6745,7 @@ WLB,7647,Pete Werner,LB,NO
 ,7909,Nolan Cooney,P,
 ,921,Willie Smith,OT,
 ,2475,D.J. Alexander,LB,
-RB,7572,Kylin Hill,RB,GB
+,7572,Kylin Hill,RB,
 ,2077,Justin Anderson,OLB,
 ,3348,Kolby Listenbee,WR,
 ,3409,Beniquez Brown,OLB,
@@ -6761,7 +6761,7 @@ RB,7572,Kylin Hill,RB,GB
 ,2292,Chris Matthews,WR,
 ,3802,Chris Hubert,WR,
 ,6172,Evan Worthington,SS,
-KOS,8508,Trenton Gill,P,CHI
+,8508,Trenton Gill,P,CHI
 ,1152,Evan Rodriguez,TE,
 ,4889,Randy Fichtner,,
 ,1272,Craig Robertson,LB,
@@ -6830,7 +6830,7 @@ RWR,7525,DeVonta Smith,WR,PHI
 QB,3294,Dak Prescott,QB,DAL
 ,1250,Will Johnson,TE,
 ,3898,Bryce Cheek,CB,
-RB,4718,Dare Ogunbowale,RB,HOU
+,4718,Dare Ogunbowale,RB,HOU
 ,4610,Deante' Gray,WR,
 LG,5877,Elgton Jenkins,G,GB
 ,174,Jay Ratliff,NT,
@@ -6839,7 +6839,7 @@ LG,5877,Elgton Jenkins,G,GB
 ,5957,Isaac Nauta,TE,GB
 QB,5745,Nick Stevens,QB,
 SS,6855,Ashtyn Davis,DB,NYJ
-PK,5823,Tristan Vizcaino,K,ARI
+,5823,Tristan Vizcaino,K,
 ,1559,Mike Glennon,QB,
 ,6971,Solomon Kindley,G,NYG
 ,367,Jared Cook,TE,
@@ -6868,12 +6868,12 @@ LWR,3652,Mike Thomas,WR,CIN
 ,3237,Will Redmond,DB,HOU
 ,6140,Kendall Sheffield,DB,DAL
 ,7438,Kristian Wilkerson,WR,NE
-RCB,6310,Tae Hayes,CB,CAR
+LCB,6310,Tae Hayes,CB,CAR
 ,7317,Jared Rice,TE,
 ,3416,Cre'Von LeBlanc,DB,
 LOLB,7154,Derrek Tuszka,LB,LAC
 ,6377,Immanuel Turner,DE,
-SS,1442,Chris Banjo,DB,ARI
+FS,1442,Chris Banjo,DB,ARI
 ,2721,Chris Harper,WR,
 ,301,Marshal Yanda,G,
 ,4819,Keionta Davis,DE,
@@ -6895,11 +6895,11 @@ SWR,6402,Steven Sims,WR,PIT
 ,770,Andrew Sendejo,DB,
 ,2057,Ken Bishop,DT,
 ,6376,James Folston,OLB,
-LWR,7032,Tyrie Cleveland,WR,DEN
+,7032,Tyrie Cleveland,WR,DEN
 ,3894,Garrett Griffin,TE,DET
 ,2863,Justin Currie,SS,
 ,6013,Saquan Hampton,DB,
-SWR,6805,K.J. Hamler,WR,DEN
+RWR,6805,K.J. Hamler,WR,DEN
 ,6296,Quinton Bell,LB,ATL
 ROLB,5061,Uchenna Nwosu,LB,SEA
 ,3249,Adolphus Washington,DT,
@@ -6928,7 +6928,7 @@ QB,7538,Zach Wilson,QB,NYJ
 ,2630,Jordan Williams,LB,
 ,5522,Owen Obasuyi,DE,
 ,704,Reggie Nelson,FS,
-DT,5945,Jonathan Ledbetter,DE,ARI
+NT,5945,Jonathan Ledbetter,DE,ARI
 ,2557,Jerry Lovelocke,QB,
 ,8815,Cedric Boswell,DB,
 ,7300,Jovahn Fair,G,
@@ -6954,14 +6954,14 @@ SS,8330,Quentin Lake,DB,LAR
 ,5099,Jermaine Carter,LB,CLE
 NT,6972,DaVon Hamilton,DT,JAX
 ,3228,Sean Davis,DB,NE
-RG,7636,Alex Leatherwood,T,CHI
+RT,7636,Alex Leatherwood,T,CHI
 ,5129,Adonis Jennings,WR,
-,8288,Christopher Hinton,DL,LAC
+,8288,Christopher Hinton,DL,
 ,6090,Montre Hartage,DB,
 ,6533,Dedrick Young,ILB,
 ,341,Tony McDaniel,DT,
 ,8094,Michael Jacobson,TE,
-LDE,6133,Chase Winovich,DE,CLE
+,6133,Chase Winovich,DE,CLE
 QB,862,Blaine Gabbert,QB,TB
 NT,8654,Timmy Horne,DT,ATL
 ,5499,Salesi Uhatafe,G,
@@ -7005,7 +7005,7 @@ RG,8501,Nick Zakelj,OL,SF
 ,8093,KJ Sails,DB,
 LWR,8146,Garrett Wilson,WR,NYJ
 QB,7527,Mac Jones,QB,NE
-TE,7131,Tyler Davis,TE,GB
+,7131,Tyler Davis,TE,GB
 ,1224,Darius Fleming,LB,
 DEF,DEN,DEN,DEF,DEN
 ,3121,Jon Robinson,,
@@ -7032,7 +7032,7 @@ LG,412,Jason Peters,OL,DAL
 ,7310,Mike Panasiuk,DT,
 DT,7833,Isaiahh Loudermilk,DE,PIT
 ,4200,DeAngelo Yancey,WR,
-NB,8390,Martin Emerson,DB,CLE
+RCB,8390,Martin Emerson,DB,CLE
 ,4906,Kacy Rodgers,SS,
 WLB,6056,Dre Greenlaw,LB,SF
 ,2571,Jeff Luc,TE,
@@ -7088,7 +7088,7 @@ QB,8161,Malik Willis,QB,TEN
 ,8883,Bryce Notree,LB,
 ,4618,Malik Smith,SS,
 ,7837,Caden Sterns,DB,DEN
-MLB,3401,Tyler Matakevich,LB,BUF
+,3401,Tyler Matakevich,LB,BUF
 ,3332,Andy Janovich,FB,
 ,1480,D.J. Fluker,T,
 ,7221,Mike Horton,G,
@@ -7247,7 +7247,7 @@ TE,4602,Robert Tonyan,TE,GB
 ,5440,Leon Johnson,G,
 ,517,Kyle Love,NT,
 ,4253,Vincent Taylor,DT,ATL
-C,4677,Jordan Roos,G,TEN
+RG,4677,Jordan Roos,G,TEN
 ,4624,P.J. Davis,ILB,
 ,4337,Ethan Cooper,C,
 ,6162,Darius West,S,
@@ -7262,7 +7262,7 @@ LG,5913,Connor McGovern,G,DAL
 ,1914,Dri Archer,RB,
 ,7262,Jalen Morton,QB,IND
 ,2236,Trey Watts,RB,
-RT,5964,Dennis Daley,G,TEN
+LT,5964,Dennis Daley,G,TEN
 ,5712,Tyrice Beverette,FS,
 ,146,Tramon Williams,CB,
 ,5657,Asantay Brown,OLB,
@@ -7270,10 +7270,10 @@ RT,5964,Dennis Daley,G,TEN
 ,4320,James Quick,WR,
 SS,6416,Andrew Wingard,DB,JAX
 WLB,4220,Jayon Brown,LB,LV
-LCB,8506,Nazeeh Johnson,DB,KC
+RCB,8506,Nazeeh Johnson,DB,KC
 ,1105,Dwayne Allen,TE,
 ,439,J.J. Jansen,LS,CAR
-LOLB,8280,Nik Bonitto,LB,DEN
+SLB,8280,Nik Bonitto,LB,DEN
 ,270,Lance Moore,WR,
 ,5613,Bruce Hector,DE,
 ,4265,Elijah Hood,RB,
@@ -7285,7 +7285,7 @@ LCB,8373,Jaylen Watson,DB,KC
 ,1136,Jack Crawford,DT,
 ,5791,Gerald Holmes,RB,
 ,3204,C.J. Prosise,RB,
-LDE,6536,Kevin Strong,DE,TEN
+DT,6536,Kevin Strong,DE,TEN
 ,6856,Troy Pride,CB,
 ,4331,Rigoberto Sanchez,P,IND
 RWR,2197,Brandin Cooks,WR,HOU
@@ -7306,7 +7306,7 @@ NT,8400,Travis Jones,DL,BAL
 ,3893,Reece Horn,WR,
 ,8106,Jordan Murray,T,IND
 ,2234,Greg Robinson,T,
-SWR,8416,Jalen Virgil,WR,DEN
+RWR,8416,Jalen Virgil,WR,DEN
 ,4588,Kyle Sloter,QB,
 ,811,Stevan Ridley,RB,
 ,1557,Johnthan Banks,CB,
@@ -7370,7 +7370,7 @@ RT,7112,Tyre Phillips,G,NYG
 ,6099,B.J. Blunt,ILB,
 ,6464,John Wirtel,LS,
 ,4192,Corn Elder,CB,WAS
-NB,4979,Jaire Alexander,CB,GB
+LCB,4979,Jaire Alexander,CB,GB
 ,7137,Stantley Thomas-Oliver,CB,CAR
 ,1045,Trevor Graham,WR,
 RWR,8119,Jahan Dotson,WR,WAS
@@ -7415,7 +7415,7 @@ RT,2123,Cornelius Lucas,T,WAS
 ,5646,Tae Davis,LB,
 RDE,6802,A.J. Epenesa,DE,BUF
 ,6222,Ka'dar Hollman,DB,SF
-KOS,1099,Randy Bullock,K,TEN
+PK,1099,Randy Bullock,K,TEN
 ,4784,Levonte Whitfield,WR,
 ,95,Dominique Rodgers-Cromartie,CB,
 NT,554,Tyson Alualu,DE,PIT
@@ -7432,14 +7432,14 @@ FS,8348,Kerby Joseph,DB,DET
 ,7752,Kawaan Baker,WR,
 ,2419,Jamil Douglas,OL,
 ,8026,Landon Rice,TE,
-LG,5948,Bobby Evans,OL,LAR
+RG,5948,Bobby Evans,OL,LAR
 ,4186,T.J. Logan,RB,
 ,3264,Joshua Perry,ILB,
 RDE,5330,Dorance Armstrong,DE,DAL
 ,6355,Micah Abernathy,FS,GB
 ,8226,Greg Bell,RB,
 ,874,Julius Thomas,TE,
-RWR,7533,Anthony Schwartz,WR,CLE
+LWR,7533,Anthony Schwartz,WR,CLE
 C,5039,Connor Williams,G,MIA
 ,8736,Elijah Garcia,DT,LAR
 ,7857,Anthony Hines,LB,
@@ -7447,7 +7447,7 @@ C,5039,Connor Williams,G,MIA
 ,2998,Cameron Jefferson,G,
 ,5875,Erik McCoy,OL,NO
 ,1883,Keith Wenning,QB,
-P,7215,Corliss Waitman,P,DEN
+,7215,Corliss Waitman,P,DEN
 ,4352,Donald Payne,LB,
 ,3979,Marty Mornhinweg,,
 ,5209,Mike Boone,RB,DEN
@@ -7461,7 +7461,7 @@ NB,2267,Jimmie Ward,DB,SF
 ,953,Terrell McClain,DT,
 RB,7528,Najee Harris,RB,PIT
 ,2622,Warren Herring,DT,
-RILB,5928,David Long,LB,TEN
+LILB,5928,David Long,LB,TEN
 ,2568,Zach Hodges,ILB,
 ,757,Clinton McDonald,DE,
 RB,4866,Saquon Barkley,RB,NYG
@@ -7552,7 +7552,7 @@ WLB,4811,Austin Calitro,LB,NYG
 ,1720,Khiry Robinson,RB,
 ,4853,Jerod Evans,QB,
 ,6428,Taylor Cornelius,QB,
-,8794,Roderick Perry,DT,
+,8794,Roderick Perry,DT,CLE
 ,6424,Matt Kaskey,OT,
 ,5437,Corey Griffin,S,
 SLB,4579,Josh Banderas,OLB,DEN
@@ -7569,7 +7569,7 @@ RG,3038,Chris Reed,G,MIN
 ,7976,Olaijah Griffin,CB,
 ,1726,Eric Kettani,FB,
 ,6024,Fred Johnson,T,PHI
-,7707,Tre Brown,CB,SEA
+RCB,7707,Tre Brown,CB,SEA
 NT,5636,Abdullah Anderson,DE,ATL
 ,8195,Ronnie Rivers,RB,LAR
 ,3839,Drew Iddings,DE,
@@ -7681,7 +7681,7 @@ RG,3830,Garrick Mayweather,G,
 ,1710,Gerald Rivers,DE,
 LCB,5921,Kris Boyd,CB,MIN
 RG,6044,Alex Bars,OL,LV
-RT,8485,Luke Tenuta,OL,GB
+LT,8485,Luke Tenuta,OL,GB
 ,3481,Kyle Carter,TE,
 RT,6899,Terence Steele,T,DAL
 SS,1576,Tyrann Mathieu,DB,NO
@@ -7694,7 +7694,7 @@ LDE,7649,Dayo Odeyingbo,DE,IND
 ,4228,Jordan Evans,LB,CIN
 ,2367,Quinten Rollins,CB,
 ,3977,Kyle Shanahan,,
-LOLB,7765,Jonathon Cooper,LB,DEN
+SLB,7765,Jonathon Cooper,LB,DEN
 ,2704,Jonathan Anderson,LB,
 ,4317,Brandon Banks,DE,
 ,4662,Dillon DeBoer,C,
@@ -7731,7 +7731,7 @@ RB,5892,David Montgomery,RB,CHI
 ,1921,Daniel McCullers,DT,
 ,2512,Reshard Cliett,OLB,
 ,1209,Robert Blanton,FS,
-RCB,8833,Dallis Flowers,CB,IND
+LCB,8833,Dallis Flowers,CB,IND
 ,127,Matt Bryant,K,
 ,1721,Andrew DePaola,LS,MIN
 ,1482,Manti Te'o,LB,
@@ -7814,7 +7814,7 @@ NB,5388,Danny Johnson,CB,WAS
 ,1467,Eric Kush,OL,
 NT,7731,Jay Tufele,DT,CIN
 RB,5987,Alexander Mattison,RB,MIN
-LT,7872,Alaric Jackson,OL,LAR
+,7872,Alaric Jackson,OL,LAR
 ,8054,Daniel Archibong,DT,
 ,1244,Josh Gordon,WR,
 ,4719,Chris Thompson,WR,
@@ -7841,7 +7841,7 @@ LCB,7686,Ambry Thomas,CB,SF
 ,2768,Braylon Heard,RB,
 FB,2073,Keith Smith,FB,ATL
 ,6115,Wes Hills,RB,
-ROLB,8383,Cameron Thomas,DL,ARI
+LOLB,8383,Cameron Thomas,DL,ARI
 ,984,Konrad Reuland,TE,
 ,7943,Zach Davidson,TE,BUF
 ,1333,Russell Shepard,WR,
@@ -7855,7 +7855,7 @@ ROLB,8383,Cameron Thomas,DL,ARI
 ,7734,Bruno Labelle,TE,
 ,5134,Keith Kirkwood,WR,NO
 ,1600,Jared Smith,G,
-LT,6224,Drew Forbes,OG,CLE
+LG,6224,Drew Forbes,OG,CLE
 ,4377,Montay Crockett,WR,
 ,8835,James Skalski,LB,
 RDE,5991,Maxx Crosby,DE,LV
@@ -7877,7 +7877,7 @@ LCB,5029,Josh Jackson,DB,PIT
 ,1764,Benson Mayowa,DE,SEA
 ,6693,Ketner Kupp,LB,
 ,3051,Rob Crisp,OT,
-RCB,8303,Roger McCreary,DB,TEN
+NB,8303,Roger McCreary,DB,TEN
 ,7177,Evin Ksiezarczyk,OL,
 ,353,Kevin Huber,P,CIN
 NB,4096,Justin Evans,SS,NO
@@ -7914,12 +7914,12 @@ TE,3496,Stephen Anderson,TE,ARI
 ,1295,Matthew Masifilo,G,
 ,4295,Wil Freeman,OT,
 ,5758,Jackson Porter,CB,
-,7522,Hunter Thedford,TE,
+,7522,Hunter Thedford,TE,NE
 ,4431,Damarius Travis,SS,
 ,6953,Qaadir Sheppard,LB,
 LDT,7711,Tommy Togiai,DT,CLE
 ,8099,DeMichael Harris-DUP,WR,
-LDE,6887,Larrell Murchison,DT,TEN
+DT,6887,Larrell Murchison,DT,TEN
 ,3544,Mike Matthews,C,
 ,5959,Mike Edwards,DB,TB
 ,6057,Ulysees Gilbert,LB,TB
@@ -8162,7 +8162,7 @@ NB,5519,Tavierre Thomas,DB,HOU
 ,964,Lance Kendricks,TE,
 ,6403,Ian Berryman,P,
 ,1514,Corey Fuller,WR,
-LDE,1640,Mike Purcell,NT,DEN
+NT,1640,Mike Purcell,NT,DEN
 NT,4207,Davon Godchaux,DT,NE
 ,3548,Jamal Robinson,WR,
 ,1070,Trevor Robinson,C,
@@ -8186,7 +8186,7 @@ DE,8358,Josh Paschal,DL,DET
 ,4436,Patrick Gamble,DE,
 C,7689,Robert Hainsey,OL,TB
 ,2972,Darrian Miller,T,
-LG,2009,Michael Schofield,T,CHI
+RG,2009,Michael Schofield,T,CHI
 ,4210,Avery Moss,DE,
 ,5933,Bless Austin,DB,
 ,376,Antonio Smith,DE,
@@ -8251,7 +8251,7 @@ QB,2549,Trevor Siemian,QB,CHI
 ,602,Sam Shields,CB,
 ,7056,Darrell Stewart,WR,
 SS,4109,Josh Jones,DB,SEA
-,7469,Austen Pleasants,OL,LAC
+,7469,Austen Pleasants,OL,
 ,5817,Byron Leftwich,QB,
 ,1697,David King,DE,
 ,1617,Bradley McDougald,DB,JAX
@@ -8322,7 +8322,7 @@ LCB,3189,Eli Apple,CB,CIN
 ,326,Darren McFadden,RB,
 ,8529,Tyarise Stevenson,DT,
 ,2479,Deiontrez Mount,LB,
-LCB,8515,Christian Matthew,DB,ARI
+RCB,8515,Christian Matthew,DB,ARI
 FS,8406,Reed Blankenship,DB,PHI
 ,182,Mike Tolbert,FB,
 ,317,Caleb Hanie,QB,
@@ -8334,7 +8334,7 @@ LWR,1992,Allen Robinson,WR,LAR
 ,2089,Kerry Wynn,DE,
 ,3623,Vontarrius Dora,OLB,
 ,298,Lawrence Timmons,LB,
-LDT,6186,Armon Watts,DT,CHI
+RDT,6186,Armon Watts,DT,CHI
 ,389,Matt Cassel,QB,
 ,4651,Corey Clement,RB,ARI
 LWR,6943,Gabe Davis,WR,BUF
@@ -8367,7 +8367,7 @@ QB,4127,C.J. Beathard,QB,JAX
 ,3537,Chris Landrum,OLB,
 RB,6820,Clyde Edwards-Helaire,RB,KC
 ,965,Jake McQuaide,LS,DAL
-KOS,8258,Cade York,K,CLE
+PK,8258,Cade York,K,CLE
 ,498,Kyle Arrington,CB,
 ,5094,Ryan Izzo,TE,
 ,2110,Christian Jones,LB,
@@ -8547,10 +8547,10 @@ C,5855,Garrett Bradbury,C,MIN
 ,5393,Niles Scott,DT,
 LCB,7667,Tyson Campbell,CB,JAX
 RB,1535,Cordarrelle Patterson,RB,ATL
-KR,8143,Jerome Ford,RB,CLE
+,8143,Jerome Ford,RB,CLE
 ,840,Corbin Bryant,DT,
 ,6237,Wilton Speight,QB,
-,112,Andy Lee,P,ARI
+P,112,Andy Lee,P,ARI
 ,2956,Brett Jones,C,
 ,3316,Kentrell Brothers,ILB,
 ,3313,LeShaun Sims,CB,
@@ -8588,7 +8588,7 @@ RB,6130,Devin Singletary,RB,BUF
 ,703,Kraig Urbik,C,
 RB,5131,Justin Jackson,RB,DET
 ,961,Adrian Clayborn,DE,
-NB,6928,Kindle Vildor,DB,CHI
+RCB,6928,Kindle Vildor,DB,CHI
 TE,4443,Pharaoh Brown,TE,CLE
 RDE,2796,Efe Obada,DE,WAS
 ,4903,Jayrone Elliott,LB,
@@ -8606,7 +8606,7 @@ DEF,MIN,MIN,DEF,MIN
 RG,6980,Jon Runyan,G,GB
 ,6103,Kingsley Keke,DE,
 ,488,Vance Walker,DE,
-LOLB,8291,Myjai Sanders,DL,ARI
+ROLB,8291,Myjai Sanders,DL,ARI
 ,764,Derek Hagan,WR,
 FB,6202,Jakob Johnson,FB,LV
 ,8589,Marcus Santos-Silva,TE,
@@ -8654,7 +8654,7 @@ TE,5010,Will Dissly,TE,SEA
 ,7566,Player Invalid,WR,
 ,53,John Kuhn,FB,
 ,619,Gerald McCoy,DT,
-NB,6781,Isaiah Simmons,LB,ARI
+LILB,6781,Isaiah Simmons,LB,ARI
 ,2648,Tajh Hasson,CB,
 ,6049,Tyre Brady,WR,
 ,2966,Nick Easton,G,
@@ -8710,7 +8710,7 @@ MLB,5753,Chris Board,LB,DET
 ,8909,Josh Black,DT,
 ,3541,Mike McQueen,G,
 ,8257,Liam Welch,QB,
-LDT,7124,Bravvion Roy,DT,CAR
+RDT,7124,Bravvion Roy,DT,CAR
 ,551,Jeff Linkenbach,T,
 ,1165,Adrien Robinson,TE,
 ,6002,Qadree Ollison,RB,DAL
@@ -8734,7 +8734,7 @@ DT,6825,Neville Gallimore,DT,DAL
 ,460,Max Unger,C,
 ,2442,Rashad Greene,WR,
 ,4590,Orion Stewart,SS,
-,3734,Brennan Scarlett,LB,
+,3734,Brennan Scarlett,LB,MIA
 ,7107,Jason Huntley,RB,PIT
 ,1996,D.J. Tialavea,T,
 RCB,5493,Charvarius Ward,CB,SF
@@ -8752,7 +8752,7 @@ RCB,5493,Charvarius Ward,CB,SF
 ,2760,Travis Raciti,NT,
 ,5420,Steven Richardson,DT,
 ,4442,Fadol Brown,DE,
-LCB,7775,Thomas Graham,DB,CLE
+RCB,7775,Thomas Graham,DB,CLE
 ,2104,Ka'Deem Carey,RB,
 ,234,Matt McCants,T,
 ,8572,Andrew Parchment,WR,
@@ -8893,7 +8893,7 @@ QB,1234,Russell Wilson,QB,DEN
 ,1650,Cameron Marshall,RB,
 ,2912,Joshua Stangby,WR,
 ,1195,Doug Martin,RB,
-LOLB,6962,La'Darius Hamilton,LB,GB
+,6962,La'Darius Hamilton,LB,GB
 ,8244,Tyler Nevens,RB,
 ,3914,Dobson Collins,WR,
 ,6619,Kabion Ento,CB,

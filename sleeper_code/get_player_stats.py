@@ -20,7 +20,17 @@ def organize_player_stats(final_teams=None):
         a = pd.read_csv('raw_data/'+file)
         final_player_stats = final_player_stats.append(a)
 
+
+    player_names = pd.read_csv('prod_data/player_names.csv')
+
+    final_player_stats.player_id = final_player_stats.player_id.astype(str)
+    final_player_stats = final_player_stats.merge(player_names, on='player_id', how='left')
+    final_player_stats = final_player_stats.drop_duplicates()
+
     final_player_stats = final_player_stats.merge(final_teams)
+
+
+
     final_player_stats = final_player_stats.drop_duplicates()
     final_player_stats.to_csv("prod_data/active_player_stats.csv", index=False)
 
