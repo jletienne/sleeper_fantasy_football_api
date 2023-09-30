@@ -27,12 +27,13 @@ sport='nfl'
 year='2022'
 url = f'https://sleeper.com/leagues/{league_id}/matchup'
 
-first_thursday_of_season = datetime.datetime(2022, 9, 8) # Date of First Thursday
+first_thursday_of_season = datetime.datetime(2023, 9, 7) # Date of First Thursday
 days_in_season_elapsed = datetime.datetime.today() - first_thursday_of_season
 week_num = days_in_season_elapsed.days // 7 + 1 #pulls the week number
 week_start = 1
 
 week_end = min(week_num, playoff_week_start)
+print(f'(the week is {week_end}')
 
 #get_all_player_names(sport=sport)
 
@@ -42,5 +43,5 @@ final_teams = get_final_teams(league_id=league_id)
 get_player_stats(league_id=league_id, positions=positions, week_start = week_start, week_end=week_end, final_teams=final_teams)
 get_team_stats(league_id=league_id, week_start = week_start, week_end=week_end, final_teams=final_teams)
 
-get_draft_results(league_id=league_id, final_teams=final_teams)
-get_expected_wins()
+#get_draft_results(league_id=league_id, final_teams=final_teams)
+get_expected_wins(week=week_num)
