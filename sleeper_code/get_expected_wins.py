@@ -9,17 +9,13 @@ import datetime
 
 from sklearn import metrics
 
-def get_expected_wins():
-    #figure out what week we're in
-    first_thursday_of_season = datetime.datetime(2022, 9, 8) # Date of First Thursday
-    days_in_season_elapsed = datetime.datetime.today() - first_thursday_of_season
-    week = days_in_season_elapsed.days // 7 + 1 #pulls the week number
-
+def get_expected_wins(week):
 
     team_data = pd.read_csv('prod_data/fantasy_team_stats.csv')
 
     fant = team_data.copy() #dataset used for model
-    fant = fant[fant['week'] < week] #ignore current_week
+    if week > 1:
+        fant = fant[fant['week'] < week] #ignore current_week
 
     #result is a win
     fant['result'] = (fant['points'] > fant['opp_points']).astype(int)
